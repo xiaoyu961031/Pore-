@@ -4,3 +4,5 @@ Pore+ offers three key groups of descriptors: curated traditional geometric desc
 
 The Pore+ descriptors have been used successfully to predict selective adsorption of methyl iodide (CH₃I) in MOFs, demonstrating improved model accuracy and interpretability compared to traditional descriptors. By providing a detailed representation of pore features, Pore+ helps researchers understand the critical factors driving adsorption performance and supports the rational design of new MOFs with optimized properties.
 
+Special acknowledgement to Professor Linjiang Chen, from Precision and intelligent chemistry @ USTC & BHAM, for modifing code that decomposes surface area for POCs.
+Special acknowledgement to Professor Tina Duren, from Univeresity of Bath, for providing the code prototype.
