@@ -1,0 +1,3084 @@
+gmof_Uio66Zr-irmof14_A_No17 {'H ', 'Zr ', 'C ', 'O '}
+gmof_Al2O6-irmof20_B-irmof7_B_No279 {'Al ', 'Cl ', 'H ', 'O ', 'S ', 'C ', 'F '}
+gmof_Al2O6-BDC_B-irmof7_B_No581 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+UKUCAF_FSR {'H ', 'Co ', 'O ', 'N ', 'S ', 'C '}
+YIMCEF_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+EZEQEH_FSR {'H ', 'O ', 'N ', 'C ', 'Mg '}
+boydwoo_str_m3_o1_o12_pcu_sym_42 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+EFADEV_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+gmof_Al2O6-irmof20_B-irmof7_B_No21 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_Al2O6-fum_B-irmof10_B_No12 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-irmof20_B-irmof7_B_No262 {'Al ', 'H ', 'O ', 'S ', 'Br ', 'C ', 'F '}
+XALROT_FSR {'H ', 'O ', 'N ', 'C ', 'In '}
+core_QUQPOI_SL {'Zn ', 'C ', 'H ', 'N '}
+GIYTEO_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof20_B-irmof7_B_No15 {'Al ', 'H ', 'O ', 'S ', 'C '}
+boydwoo_str_m3_o24_o29_pcu_sym_127 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+VUZREQ_FSR {'H ', 'C ', 'Mg ', 'N '}
+TAZVEY_FSR {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o9_o22_pcu_sym_66 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+FAVHES_FSR {'H ', 'Tb ', 'C ', 'O '}
+HEJQIZ_FSR {'Zn ', 'C ', 'H ', 'N '}
+EKEHUZ_FSR {'H ', 'O ', 'N ', 'Zn ', 'P ', 'C '}
+gmof_Al2O6-irmof20_B-irmof7_B_No316 {'Al ', 'H ', 'O ', 'S ', 'C ', 'F '}
+gmof_AlO6-mof177-N_No37 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+MAWVAK_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_OWEYOF_freeONLY {'H ', 'Co ', 'O ', 'N ', 'S ', 'C '}
+ROGSAI_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+gmof_Al2O6-BDC_B-fum_B_No88 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+PARMIG_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+core_AFIXAO_freeONLY {'H ', 'Co ', 'C ', 'N '}
+FAVGIV_FSR {'H ', 'Sm ', 'O ', 'C '}
+EBAMOL_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+MADVUJ_FSR {'H ', 'I ', 'Cu ', 'S ', 'C '}
+JESTIN_FSR {'Cd ', 'H ', 'O ', 'N ', 'S ', 'C '}
+core_NIYJAI_freeONLY {'Cd ', 'H ', 'O ', 'S ', 'N ', 'Br ', 'C '}
+FAVGUH_FSR {'H ', 'O ', 'C ', 'Eu '}
+KINDOC_FSR {'H ', 'O ', 'N ', 'Tm ', 'C '}
+EKOKIA_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+BOXRAK_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+core_NEJSOM_freeONLY {'H ', 'O ', 'Cu ', 'N ', 'C '}
+XOPMIA_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+core_REHVEH_freeONLY {'H ', 'Co ', 'O ', 'N ', 'C '}
+UKOHIN_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+PIXQUK_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+ASUBIZ_FSR {'H ', 'O ', 'S ', 'Zn ', 'C '}
+core_LIFWOO_freeONLY {'H ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+UKUBUY_FSR {'H ', 'O ', 'N ', 'S ', 'C ', 'Fe '}
+RIVDEF_FSR {'Cd ', 'H ', 'O ', 'N ', 'C ', 'B '}
+ROYJIA_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+core_UKUBOS_freeONLY {'H ', 'O ', 'N ', 'S ', 'C ', 'Mn '}
+FAPTIB_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+core_GAXQIH_freeONLY {'H ', 'O ', 'N ', 'Ni ', 'C '}
+XOPVII_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+CADZOY_FSR {'Sr ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o1_o12_pcu_sym_51 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+YAYRIC02_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+EWALUK_FSR {'Zn ', 'O ', 'C ', 'H '}
+NAZBAT_FSR {'H ', 'O ', 'C ', 'In '}
+INALOA_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+DITJEY_FSR {'Al ', 'H ', 'O ', 'N ', 'C '}
+core_DUDKUK_freeONLY {'Cd ', 'H ', 'O ', 'N ', 'C '}
+XEGRAF_FSR {'H ', 'Cd ', 'C ', 'N '}
+gmof_Al2O6-irmof20_B-irmof7_B_No111 {'Al ', 'Cl ', 'H ', 'O ', 'S ', 'C '}
+core_FIFMIS01_freeONLY {'H ', 'Co ', 'O ', 'N ', 'C '}
+MOF-5_cooh_2_2075_1 {'Zn ', 'O ', 'C ', 'H '}
+SESHEG_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+ACURUO_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+IZUMUM_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+gmof_AlO6-mof177-N_No27 {'Al ', 'H ', 'O ', 'N ', 'C '}
+TOXYEM_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+ZOMNUM_FSR {'H ', 'O ', 'N ', 'Zn ', 'C ', 'Cr '}
+LIWCEB_FSR {'Rh ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-ADC_B-BDC_B_No496 {'H ', 'Al ', 'C ', 'O '}
+CECVOX_FSR {'Cl ', 'H ', 'O ', 'N ', 'Ni ', 'C '}
+ARICOT_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+LOZJER_FSR {'H ', 'O ', 'N ', 'C ', 'Pr '}
+core_WAVQUH_freeONLY {'H ', 'Co ', 'O ', 'N ', 'C '}
+JEJZAC_FSR {'H ', 'O ', 'C ', 'Mn '}
+DAWCOV_FSR {'H ', 'O ', 'C ', 'Mn '}
+SAMLAV02_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+QEDZEG_FSR {'Zn ', 'O ', 'C ', 'H '}
+MOF-5_cooh_2_530_2 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+EMAXOH_FSR {'H ', 'O ', 'N ', 'La ', 'C '}
+boydwoo_str_m3_o5_o24_pcu_sym_92 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+SASVOA_FSR {'Cl ', 'H ', 'Cu ', 'N ', 'C '}
+core_HOVQAM_freeONLY {'H ', 'Co ', 'C ', 'N '}
+gmof_Zn2O8N2-irmof14_A-irmof7_A_No378 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+QESYOD_FSR {'H ', 'I ', 'Cu ', 'N ', 'C '}
+NEGMIY_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+IQEKUM_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+FODCOS_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+core_GUXPOF_freeONLY {'H ', 'Co ', 'O ', 'N ', 'S ', 'C '}
+tobacco_SR_bcu_v1-8c_Hf_1_Ch_1TrU_Ch_2x2x3 {'H ', 'O ', 'C ', 'Hf '}
+gmof_Al2O6-irmof20_B-irmof7_B_No305 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C ', 'F '}
+TONBII_FSR {'H ', 'O ', 'C ', 'Fe '}
+XIFHIF_FSR {'Tb ', 'H ', 'O ', 'N ', 'C '}
+YUYBIF_FSR {'Cd ', 'H ', 'O ', 'N ', 'S ', 'C '}
+PIHREF_FSR {'H ', 'O ', 'N ', 'Zn ', 'P ', 'C '}
+boydwoo_str_m3_o1_o18_pcu_sym_148 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+XOKQUL_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o5_o11_sra_sym_47 {'H ', 'Al ', 'C ', 'O '}
+CUQRIR_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+EYOJOT_FSR {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+VAZROF_FSR {'H ', 'O ', 'N ', 'C ', 'Fe '}
+FAFBUL_FSR {'H ', 'O ', 'N ', 'C ', 'Mn '}
+tobacco_SR_bcu_v1-8c_Zr_1_Ch_1TrU_Ch_2x2x3 {'H ', 'Zr ', 'C ', 'O '}
+ZOMNEW_FSR {'H ', 'O ', 'N ', 'Zn ', 'Mo ', 'C '}
+GUQWOG_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+EYIYES_FSR {'H ', 'O ', 'N ', 'Dy ', 'C '}
+boydwoo_str_m5_Al_o10_o29_sra_sym_51 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o1_o4_pcu_sym_157 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+TOLGIL_FSR {'Cd ', 'Cl ', 'H ', 'N ', 'C '}
+core_OJIWAG_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+UQENAH_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-NiC4_No13 {'Zn ', 'O ', 'C ', 'H '}
+NEGKIW_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+DEYVUA_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+KALFIO_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+core_HOBGEL_freeONLY {'H ', 'O ', 'N ', 'Ni ', 'C '}
+core_SAMLAV_manual {'Cd ', 'H ', 'O ', 'N ', 'C '}
+core_QIWPET_freeONLY {'H ', 'O ', 'C ', 'Mg '}
+KUXSIH01_FSR {'H ', 'O ', 'N ', 'C ', 'Fe '}
+gmof_Al2O6-irmof7_B-irmof8_B_No29 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_Uio66Zr-irmof20_A-irmof8_A_No120 {'Cl ', 'H ', 'O ', 'N ', 'S ', 'Zr ', 'C '}
+core_OTAVAH_freeONLY {'H ', 'O ', 'Gd ', 'N ', 'C '}
+DAFZAO_FSR {'H ', 'O ', 'N ', 'C ', 'Mn '}
+gmof_Al2O6-fum_B-irmof10_B_No96 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o22_o22_pcu_sym_48 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-BDC_B-irmof7_B_No2 {'H ', 'Al ', 'C ', 'O '}
+HOMTIM_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+SINSUG_FSR {'H ', 'O ', 'N ', 'C ', 'Mg ', 'F '}
+QUZVEO_FSR {'H ', 'O ', 'N ', 'Dy ', 'C '}
+gmof_AlO6-mof177-N_No9 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o1_o4_sra_sym_103 {'H ', 'Al ', 'C ', 'O '}
+MEWWET_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+KEHGIO_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+core_ILIFUE_freeONLY {'H ', 'O ', 'C ', 'Ce '}
+TOYHIB_FSR {'H ', 'Ti ', 'O ', 'C '}
+OFODAP_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+core_SEFSOM_freeONLY {'Cd ', 'H ', 'O ', 'N ', 'S ', 'C '}
+VEXPAS_FSR {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+core_CUVXAT_freeONLY {'H ', 'O ', 'N ', 'C ', 'F ', 'Mn '}
+QEBHOX_FSR {'H ', 'O ', 'N ', 'C ', 'Mn '}
+LACJIL_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o11_o18_pcu_sym_36 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+MARBIT_FSR {'H ', 'O ', 'Gd ', 'N ', 'C '}
+boydwoo_str_m3_o4_o29_pcu_sym_66 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-irmof6_B-irmof7_B_No3 {'Al ', 'H ', 'O ', 'C ', 'F '}
+core_BASJUB_freeONLY {'Cl ', 'H ', 'Co ', 'O ', 'N ', 'C '}
+KINFEU_FSR {'H ', 'O ', 'N ', 'Tm ', 'C '}
+core_AKUKUO_freeONLY {'H ', 'O ', 'N ', 'Ni ', 'P ', 'C '}
+boydwoo_str_m3_o10_o23_pcu_sym_20 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Uio66Zr-irmof20_A-irmof8_A_No313 {'H ', 'O ', 'N ', 'S ', 'Zr ', 'C '}
+core_CUVGOQ_freeONLY {'H ', 'C ', 'Mn ', 'N '}
+core_EBOBIJ_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-BDC_B-irmof7_B_No693 {'Al ', 'H ', 'O ', 'N ', 'C '}
+NOFMIG01_FSR {'H ', 'Cd ', 'C ', 'O '}
+boydwoo_str_m3_o1_o4_pcu_sym_132 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C ', 'F '}
+FITFIA_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Uio66Zr-irmof20_A-irmof8_A_No228 {'H ', 'O ', 'S ', 'N ', 'Zr ', 'Br ', 'C '}
+boydwoo_str_m3_o4_o14_pcu_sym_124 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+core_MAFDII_SL {'H ', 'O ', 'C ', 'In '}
+gmof_Uio66Zr-irmof20_A-irmof8_A_No300 {'Cl ', 'H ', 'O ', 'S ', 'Zr ', 'C '}
+FUNBAS_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Uio66Zr-irmof20_A-irmof8_A_No121 {'Cl ', 'H ', 'O ', 'N ', 'S ', 'Zr ', 'C '}
+UWUTIQ_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_GARQAU_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_KALFEK_freeONLY {'H ', 'O ', 'N ', 'Ni ', 'C '}
+SODZIV_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+FANPAO_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_AKEDIF_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+CATDEH_FSR {'Zn ', 'C ', 'H ', 'N '}
+boydwoo_str_m3_o4_o9_pcu_sym_200 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+WEFXIQ_FSR {'H ', 'O ', 'N ', 'Ni ', 'S ', 'C '}
+gmof_Uio66Zr-irmof10_A_No5 {'Cl ', 'H ', 'O ', 'Zr ', 'C '}
+XUZVUL_FSR {'H ', 'Ag ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o1_o17_pcu_sym_149 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o1_o10_pcu_sym_121 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Uio66Zr-irmof10_A-irmof12_A_No5 {'Cl ', 'H ', 'O ', 'Zr ', 'C '}
+boydwoo_str_m3_o14_o21_pcu_sym_152 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+core_REZVAU_freeONLY {'H ', 'Co ', 'O ', 'N ', 'S ', 'C '}
+core_JUYROM_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+NOZZUZ_FSR {'Cd ', 'H ', 'O ', 'C ', 'Si '}
+tobacco_SR_ttv_v1-3c_pyrrole_Ch_v2-12c_Zr_1_Ch_1TrU_Ch_1DoU_Ch_2x2x2 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+UDAFOX_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o12_o15_pcu_sym_107 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+TITBIJ_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+XEJVOZ_FSR {'Sr ', 'H ', 'O ', 'N ', 'C '}
+PIHWAG_FSR {'H ', 'O ', 'N ', 'La ', 'S ', 'C '}
+PUPJEQ_FSR {'Zn ', 'O ', 'C ', 'H '}
+UKUBIM_FSR {'Cd ', 'H ', 'O ', 'N ', 'S ', 'C '}
+gmof_Uio66Zr-irmof10_A-irmof14_A_No156 {'Cl ', 'H ', 'O ', 'Zr ', 'C '}
+XOLSUO_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+core_PIJROR_freeONLY {'Ce ', 'H ', 'O ', 'S ', 'N ', 'C '}
+boydwoo_str_m1_o15_o19_pcu_sym_50 {'O ', 'N ', 'Zn ', 'C ', 'F '}
+core_XEGKUR_freeONLY {'H ', 'O ', 'Gd ', 'N ', 'C '}
+XEVNER_FSR {'Cd ', 'H ', 'O ', 'N ', 'S ', 'C '}
+FIDFEG_FSR {'H ', 'O ', 'Cu ', 'N ', 'S ', 'C '}
+gmof_Zn4O13-BDC_A-NiC4_No24 {'Zn ', 'O ', 'C ', 'N '}
+KEWZOD_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_KIPJUQ_freeONLY {'H ', 'O ', 'C ', 'Er ', 'F '}
+MOF-5_cooh_2_98_1 {'Zn ', 'O ', 'C ', 'H '}
+core_CURBOH_freeONLY {'H ', 'I ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof7_B_No1 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m5_Al_o5_o29_sra_sym_81 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+HAYYOY_FSR {'Cl ', 'H ', 'O ', 'N ', 'C ', 'Fe '}
+MUJKAF_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o19_o23_sra_sym_69 {'H ', 'Al ', 'C ', 'O '}
+QOMFEE_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+MOF-5_cooh_2_1401_2 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Uio66Zr-irmof20_A-irmof8_A_No77 {'Cl ', 'H ', 'O ', 'S ', 'Zr ', 'C '}
+IXAJUN_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+core_GAWLIB_freeONLY {'Tb ', 'H ', 'O ', 'C ', 'F '}
+core_CAYSIE_freeONLY {'H ', 'Co ', 'C ', 'N '}
+boydwoo_str_m3_o4_o28_pcu_sym_184 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+ULAFEU_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o22_o22_sra_sym_66 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+boydwoo_str_m1_o5_o17_pcu_sym_88 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o12_o16_pcu_sym_87 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+RITDAB_FSR {'H ', 'O ', 'Cu ', 'N ', 'C ', 'In '}
+gmof_Al2O6-irmof20_B-irmof7_B_No168 {'Al ', 'Cl ', 'H ', 'O ', 'S ', 'C '}
+gmof_AlO6-mof177-N_No2 {'Al ', 'H ', 'O ', 'N ', 'Br ', 'C '}
+gmof_Al2O6-BDC_B-irmof7_B_No4 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+core_POYPAW_freeONLY {'Cd ', 'Cl ', 'H ', 'N ', 'Ni ', 'C '}
+SOZHOG_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+YURHOL_FSR {'H ', 'Co ', 'C ', 'N '}
+gmof_Al2O6-BDC_B-fum_B_No92 {'Al ', 'H ', 'O ', 'C ', 'F '}
+QEBGAH_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+AFOVAT_FSR {'La ', 'O ', 'C ', 'H '}
+VOCXUH_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o14_o28_pcu_sym_258 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+MAQBAK_FSR {'Zn ', 'O ', 'C ', 'H '}
+UXABUR_FSR {'H ', 'Y ', 'O ', 'C '}
+core_MIXYID_freeONLY {'H ', 'O ', 'N ', 'Ni ', 'C '}
+gmof_AlO6-mof177-N_No14 {'Al ', 'H ', 'O ', 'N ', 'C '}
+core_CUYWUP_freeONLY {'H ', 'O ', 'C ', 'Cu '}
+TEBYIK_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+AFOVOH_FSR {'H ', 'O ', 'Nd ', 'C '}
+SOFKOQ_FSR {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m1_o24_o24_pcu_sym_153 {'Zn ', 'O ', 'C ', 'H '}
+EMAMUC_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+core_HEGNUD_freeONLY {'H ', 'O ', 'Ga ', 'P ', 'N ', 'C ', 'Cr '}
+gmof_Al2O6-AZO_B-fum_B_No10 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o4_o14_pcu_sym_100 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+CIJBEE_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+core_KIPKEB_freeONLY {'H ', 'Y ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o4_o22_pcu_sym_48 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o5_o24_pcu_sym_109 {'Zn ', 'O ', 'C ', 'H '}
+SEQGUR_FSR {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+VUWXUJ01_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o9_o11_pcu_sym_64 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+RITDEF_FSR {'H ', 'Ag ', 'O ', 'N ', 'C ', 'In '}
+APAZIC_FSR {'La ', 'O ', 'C ', 'H '}
+core_KALGAH_freeONLY {'H ', 'O ', 'N ', 'Ni ', 'C '}
+UMAQAC_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+TUJDEJ_FSR {'H ', 'O ', 'N ', 'Zn ', 'P ', 'C '}
+SATCEX_FSR {'W ', 'Cl ', 'H ', 'Cu ', 'S ', 'N ', 'C '}
+DIDDIE_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+CEVGIW_FSR {'H ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+UXABOL_FSR {'H ', 'O ', 'C ', 'Er '}
+gmof_Uio66Zr-irmof20_A-irmof8_A_No297 {'H ', 'O ', 'S ', 'Zr ', 'C '}
+MARJEW_FSR {'H ', 'O ', 'S ', 'Ba ', 'C '}
+PEPLOM_FSR {'H ', 'O ', 'C ', 'V '}
+tobacco_SR_ttv_v1-3c_pyrrole_Ch_v2-12c_Hf_1_Ch_1TrU_Ch_1B_4H_Ch_2x2x2 {'H ', 'O ', 'N ', 'C ', 'Hf '}
+SIXWIH_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Uio66Zr-irmof10_A-irmof14_A_No5 {'Cl ', 'H ', 'O ', 'Zr ', 'C '}
+EVONOS_FSR {'H ', 'O ', 'N ', 'C ', 'Fe '}
+core_DAWBIO_freeONLY {'H ', 'Co ', 'O ', 'N ', 'C '}
+RAXNEK_FSR {'H ', 'O ', 'N ', 'C ', 'Fe '}
+gmof_Zn2O8N2-irmof7_A-irmof8_A_No298 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+RIXBIK_FSR {'H ', 'O ', 'N ', 'S ', 'C ', 'Mn '}
+boydwoo_str_m3_o12_o22_pcu_sym_155 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+FENHIS_FSR {'H ', 'Cd ', 'C ', 'O '}
+pyrene_KEQJEX {'Zn ', 'O ', 'C ', 'H '}
+core_JUCGUL_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+FEXCES_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+FEQSIF_FSR {'H ', 'Co ', 'O ', 'C '}
+UHOMEL_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o24_o25_pcu_sym_97 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+HOQMIL01_FSR {'H ', 'O ', 'N ', 'C ', 'Mg '}
+core_DAWBUA_freeONLY {'H ', 'Co ', 'O ', 'N ', 'C '}
+OKIRIK_FSR {'H ', 'Ag ', 'O ', 'N ', 'S ', 'C '}
+AYOXUJ_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+HIFWAV_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-DPAC_B-fum_B_No78 {'Al ', 'Cl ', 'H ', 'O ', 'C ', 'F '}
+tobacco_SR_ttv_v1-3c_B_Ch_v2-12c_Zr_1_Ch_1TrU_Ch_2x2x2 {'H ', 'Zr ', 'C ', 'O '}
+gmof_Al2O6-BDC_B-irmof6_B_No61 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+boydwoo_str_m1_o10_o13_pcu_sym_226 {'Zn ', 'O ', 'C ', 'H '}
+core_EHODOV_SL {'H ', 'O ', 'C ', 'In '}
+boydwoo_str_m5_Al_o13_o25_sra_sym_15 {'Al ', 'H ', 'O ', 'N ', 'C '}
+core_ETIXIQ_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o12_o13_pcu_sym_106 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-ADC_B-fum_B_No104 {'H ', 'Al ', 'C ', 'O '}
+gmof_Al2O6-fum_B-irmof20_B_No82 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C ', 'F '}
+boydwoo_str_m5_Al_o5_o11_sra_sym_144 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o10_o23_pcu_sym_171 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+UDANAQ_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o6_o15_pcu_sym_150 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_DAWBOU_freeONLY {'H ', 'O ', 'N ', 'Ni ', 'C '}
+boydwoo_str_m5_Al_o2_o17_sra_sym_48 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Uio66Zr-irmof20_A-irmof8_A_No310 {'H ', 'O ', 'N ', 'S ', 'Zr ', 'C '}
+WARJAC_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+HEJQAR_FSR {'H ', 'Cd ', 'C ', 'N '}
+DAWCAH_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+gmof_Zn2O8N2-irmof14_A-irmof7_A_No191 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o14_o19_pcu_sym_93 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Uio66Zr-irmof20_A_No10 {'H ', 'O ', 'S ', 'Zr ', 'C ', 'F '}
+boydwoo_str_m3_o14_o28_pcu_sym_243 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o5_o23_pcu_sym_9 {'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o13_o24_pcu_sym_222 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o13_o22_pcu_sym_144 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+FIRBOX02_FSR {'H ', 'N ', 'S ', 'C ', 'Fe '}
+boydwoo_str_m5_Al_o11_o17_sra_sym_206 {'Al ', 'H ', 'O ', 'I ', 'C '}
+WUYWAQ_FSR {'H ', 'Cd ', 'C ', 'O '}
+CAYSOK_FSR {'H ', 'C ', 'Mn ', 'N '}
+boydwoo_str_m5_Al_o1_o1_sra_sym_51 {'H ', 'Al ', 'C ', 'O '}
+GECXUH02_FSR {'Zn ', 'O ', 'C ', 'H '}
+MUZVUA_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o11_o28_pcu_sym_170 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+core_COWBEX_freeONLY {'Cd ', 'H ', 'O ', 'N ', 'C ', 'F '}
+boydwoo_str_m3_o14_o14_pcu_sym_55 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+core_IXUWII_freeONLY {'H ', 'Co ', 'O ', 'N ', 'C '}
+gmof_Al2O6-irmof20_B-irmof7_B_No301 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C ', 'F '}
+core_QAVWAN_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+PODXIR_FSR {'Cd ', 'Cl ', 'H ', 'N ', 'C '}
+AFOVEX_FSR {'H ', 'O ', 'C ', 'Ce '}
+gmof_Uio66Zr-irmof20_A-irmof8_A_No302 {'H ', 'O ', 'S ', 'Zr ', 'C '}
+boydwoo_str_m3_o5_o28_pcu_sym_56 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+core_ADAXIO_freeONLY {'H ', 'Co ', 'O ', 'N ', 'C '}
+core_LABNIO_freeONLY {'H ', 'I ', 'N ', 'Zn ', 'C '}
+YOPJOF_FSR {'Cd ', 'H ', 'O ', 'N ', 'C ', 'Si ', 'F '}
+boydwoo_str_m3_o11_o22_pcu_sym_256 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+YUKBIP_FSR {'Al ', 'H ', 'O ', 'P ', 'C '}
+ATOBIW_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+GIYSAJ_FSR {'H ', 'O ', 'La ', 'C ', 'F '}
+FIRTIL_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+boydwoo_str_m5_Al_o1_o19_sra_sym_70 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_Al2O6-irmof20_B-irmof7_B_No33 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m3_o5_o7_pcu_sym_50 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+MOF-5_cooh_2_120_2 {'Zn ', 'O ', 'C ', 'H '}
+CAYDIR_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+core_NIYZIG_freeONLY {'H ', 'O ', 'P ', 'Zn ', 'C '}
+AFOTUL_FSR {'H ', 'Sm ', 'O ', 'C '}
+gmof_Al2O6-fum_B-irmof10_B_No92 {'Al ', 'H ', 'O ', 'N ', 'C '}
+YEPKUC_FSR {'Zn ', 'O ', 'C ', 'H '}
+gmof_AlO6-mof177-N_No22 {'Al ', 'H ', 'O ', 'N ', 'Br ', 'C '}
+IZIHOQ_FSR {'H ', 'Dy ', 'C ', 'O '}
+gmof_Al2O6-fum_B-irmof14_B_No1 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn2O8N2-irmof8_A-TePM_No128 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Uio66Zr-irmof20_A-irmof8_A_No311 {'H ', 'O ', 'N ', 'S ', 'Zr ', 'C '}
+XINMOZ_FSR {'H ', 'I ', 'Cu ', 'P ', 'N ', 'C '}
+core_ATIXAE_freeONLY {'Tb ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m3_o1_o4_pcu_sym_24 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+ALULAV_FSR {'H ', 'O ', 'Gd ', 'N ', 'S ', 'C '}
+gmof_Uio66Zr-irmof20_A-irmof8_A_No190 {'H ', 'O ', 'S ', 'Zr ', 'C ', 'F '}
+core_BEXPAX_freeONLY {'H ', 'O ', 'N ', 'Ni ', 'C '}
+gmof_Uio66Zr-irmof20_A-irmof8_A_No176 {'H ', 'O ', 'S ', 'Zr ', 'C ', 'F '}
+JEDQIS_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+boydwoo_str_m3_o1_o17_pcu_sym_158 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_Uio66Zr-irmof20_A-irmof8_A_No10 {'H ', 'O ', 'S ', 'Zr ', 'C ', 'F '}
+boydwoo_str_m1_o14_o22_pcu_sym_220 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+gmof_Uio66Zr-irmof20_A-irmof8_A_No166 {'H ', 'O ', 'S ', 'Zr ', 'C ', 'F '}
+tobacco_SR_ttv_v1-3c_B_Ch_v2-12c_Hf_1_Ch_1TrU_Ch_1B_4H_Ch_2x2x2 {'H ', 'O ', 'C ', 'Hf '}
+boydwoo_str_m3_o1_o8_pcu_sym_63 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-ADC_B-fum_B_No242 {'Al ', 'H ', 'O ', 'C ', 'F '}
+XUDYEC_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+core_CUVGIK_freeONLY {'H ', 'C ', 'Mn ', 'N '}
+FITDAQ_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+LUSHIR_FSR {'H ', 'O ', 'N ', 'C ', 'Mn '}
+IQOHUT_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+ALUKOI_FSR {'H ', 'Sm ', 'O ', 'N ', 'S ', 'C '}
+ALUKUO_FSR {'H ', 'O ', 'S ', 'N ', 'C ', 'Eu '}
+SIPHUV_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+gmof_Uio66Zr-irmof20_A-irmof8_A_No182 {'H ', 'O ', 'N ', 'S ', 'Zr ', 'C ', 'F '}
+boydwoo_str_m3_o14_o18_pcu_sym_32 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof20_B-irmof7_B_No136 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+gmof_Uio66Zr-irmof14_A_No1 {'H ', 'Zr ', 'C ', 'O '}
+gmof_ZnN4-SiF6-irmof20_No3 {'N ', 'Zn ', 'S ', 'C ', 'Si ', 'F '}
+boydwoo_str_m3_o4_o23_pcu_sym_238 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_REYPIW_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+KESGAS_FSR {'H ', 'O ', 'N ', 'S ', 'C ', 'Mn '}
+EJIBOQ_FSR {'H ', 'Co ', 'C ', 'N '}
+KEQNOL_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o22_o23_pcu_sym_52 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o25_o27_sra_sym_36 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+core_WAFKAQ_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o12_o22_pcu_sym_220 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+KINFAQ_FSR {'Tm ', 'O ', 'C ', 'H '}
+boydwoo_str_m1_o1_o9_pcu_sym_189 {'Zn ', 'O ', 'C ', 'H '}
+WUTBOC_FSR {'H ', 'O ', 'Cu ', 'N ', 'C ', 'Eu '}
+IBATEM_FSR {'H ', 'O ', 'Cu ', 'Gd ', 'N ', 'C '}
+gmof_Uio66Zr-irmof20_A-irmof8_A_No175 {'H ', 'O ', 'S ', 'Zr ', 'C ', 'F '}
+WIMYEZ_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-irmof20_B-irmof7_B_No201 {'Al ', 'Cl ', 'H ', 'O ', 'S ', 'C '}
+tobacco_SR_ttv_v1-3c_triazine_Ch_v2-12c_Hf_1_Ch_1B_2Br_Ch_2x2x2 {'H ', 'O ', 'N ', 'Br ', 'C ', 'Hf '}
+boydwoo_str_m3_o11_o22_pcu_sym_176 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+MIJMAU_FSR {'W ', 'H ', 'N ', 'Ni ', 'C '}
+CUMMEE_FSR {'Ru ', 'Cd ', 'H ', 'O ', 'N ', 'C '}
+RAXCOK_FSR {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m3_o11_o25_pcu_sym_76 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+IBASUB_FSR {'H ', 'Sm ', 'O ', 'Cu ', 'N ', 'C '}
+gmof_Al2O6-AZO_B-fum_B_No72 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+QOBZUD_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-irmof20_B-irmof7_B_No184 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'S ', 'C '}
+XUFZIJ_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o11_o14_pcu_sym_24 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+tobacco_SR_ttv_v1-3c_pyrrole_Ch_v2-12c_Hf_1_Ch_1B_2F_Ch_2x2x2 {'H ', 'O ', 'N ', 'C ', 'Hf ', 'F '}
+gmof_AlO6-mof177-N_No5 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o19_o23_sra_sym_88 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+gmof_Al2O6-fum_B-irmof20_B_No97 {'Al ', 'H ', 'O ', 'S ', 'C '}
+core_TIRRIW_freeONLY {'H ', 'Co ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o1_o14_pcu_sym_203 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+tobacco_SR_ttv_v1-3c_triazine_Ch_v2-12c_Hf_1_Ch_1TrU_Ch_1DoU_Ch_2x2x2 {'H ', 'O ', 'N ', 'C ', 'Hf '}
+gmof_Uio66Zr-irmof20_A-irmof8_A_No167 {'H ', 'O ', 'S ', 'Zr ', 'C ', 'F '}
+core_IBASOV_freeONLY {'H ', 'O ', 'Nd ', 'Cu ', 'N ', 'C '}
+gmof_Uio66Zr-irmof20_A-irmof8_A_No171 {'Cl ', 'H ', 'O ', 'S ', 'Zr ', 'C ', 'F '}
+ADETEL_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+tobacco_SR_ttv_v1-3c_triazine_Ch_v2-12c_Zr_1_Ch_1B_2Br_Ch_2x2x2 {'H ', 'O ', 'N ', 'Zr ', 'Br ', 'C '}
+GAKXIB_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o2_o2_sra_sym_20 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o22_o23_pcu_sym_35 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o4_o14_pcu_sym_152 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+boydwoo_str_m3_o12_o15_pcu_sym_175 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o13_o22_pcu_sym_267 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_IBASEL_freeONLY {'H ', 'O ', 'Cu ', 'N ', 'La ', 'C '}
+boydwoo_str_m1_o4_o9_pcu_sym_268 {'Cl ', 'H ', 'O ', 'Zn ', 'C ', 'F '}
+MOF-5_cooh_2_988_1 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o22_o22_sra_sym_1 {'H ', 'Al ', 'C ', 'O '}
+gmof_CuN4-SiF6-irmof20_No1 {'H ', 'Cu ', 'S ', 'N ', 'C ', 'Si ', 'F '}
+boydwoo_str_m3_o10_o13_pcu_sym_139 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o13_o25_sra_sym_65 {'Al ', 'H ', 'O ', 'I ', 'N ', 'C '}
+MOF-5_cooh_2_97_2 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+PAPRUU_FSR {'H ', 'O ', 'N ', 'La ', 'Ni ', 'C '}
+boydwoo_str_m3_o1_o25_pcu_sym_139 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+core_MUNNUF_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+XEGJOK_FSR {'H ', 'O ', 'Gd ', 'N ', 'C '}
+tobacco_SR_ttv_v1-3c_pyrrole_Ch_v2-12c_Zr_1_Ch_1B_2F_Ch_2x2x2 {'H ', 'O ', 'N ', 'Zr ', 'C ', 'F '}
+core_NEBNOZ_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+SOMJOV_FSR {'H ', 'O ', 'N ', 'C ', 'Fe '}
+tobacco_SR_ttv_v1-3c_pyrrole_Ch_v2-12c_Zr_1_Ch_1TrU_Ch_1B_4H_Ch_2x2x2 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+OKIZOZ_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+USUBUG_FSR {'Zn ', 'C ', 'H ', 'N '}
+gmof_AlO6-mof177-N_No4 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o13_o13_pcu_sym_88 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_FUNLAD_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_ZISYAD_freeONLY {'H ', 'I ', 'Cu ', 'N ', 'C '}
+UVUPOR_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+VAZHOW_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+WORSUT_FSR {'H ', 'O ', 'N ', 'Zn ', 'C ', 'B ', 'F '}
+gmof_Uio66Zr-irmof10_A-irmof12_A_No16 {'H ', 'O ', 'S ', 'Zr ', 'C '}
+core_REDYEG_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+core_RACZEC_freeONLY {'H ', 'Co ', 'O ', 'N ', 'C ', 'F '}
+tobacco_SR_ttv_v1-3c_triazine_Ch_v2-12c_Zr_1_Ch_1TrU_Ch_1DoU_Ch_2x2x2 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+boydwoo_str_m1_o14_o14_pcu_sym_23 {'H ', 'O ', 'I ', 'Zn ', 'Br ', 'C '}
+BONMEX_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+FEDBEX_FSR {'H ', 'O ', 'N ', 'Tm ', 'C '}
+boydwoo_str_m3_o1_o25_pcu_sym_109 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+SIXWON_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_AFITUF_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o11_o23_pcu_sym_76 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o1_o11_pcu_sym_113 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-BDC_B-fum_B_No91 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m5_Al_o13_o25_sra_sym_69 {'Al ', 'H ', 'O ', 'I ', 'C '}
+gmof_Al2O6-BDC_B-irmof20_B_No211 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m3_o24_o29_pcu_sym_40 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_SETSOB_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C ', 'Cr '}
+CECHAW_FSR {'H ', 'C ', 'Cu ', 'N '}
+DOYBEA_FSR {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m5_Al_o13_o24_sra_sym_201 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+core_TORPUN_freeONLY {'Tb ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-BDC_B-irmof20_B_No253 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m3_o4_o17_pcu_sym_246 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o11_o14_pcu_sym_205 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o2_o4_sra_sym_103 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+core_RUWZUG_freeONLY {'H ', 'O ', 'N ', 'Ni ', 'C '}
+boydwoo_str_m5_Al_o13_o22_sra_sym_83 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o12_o18_sra_sym_185 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Zn2O8N2-irmof8_A-TePM_No127 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+BUVXOG01_FSR {'H ', 'C ', 'Fe ', 'N '}
+UGOFON_FSR {'H ', 'O ', 'N ', 'C ', 'Fe '}
+ZESZEE_FSR {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o11_o22_pcu_sym_258 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_BIBXUH_freeONLY {'H ', 'O ', 'N ', 'Ni ', 'C '}
+gmof_Al2O6-irmof20_B-irmof7_B_No402 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C ', 'F '}
+boydwoo_str_m5_Al_o8_o16_sra_sym_63 {'Al ', 'H ', 'O ', 'I ', 'N ', 'C '}
+EYOPOY_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+PENFIY_FSR {'H ', 'O ', 'N ', 'C ', 'U '}
+ESIFIX_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+HECQUB_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+TOBKAY_FSR {'H ', 'O ', 'Gd ', 'N ', 'C '}
+gmof_Al2O6-irmof20_B-irmof7_B_No145 {'Al ', 'H ', 'O ', 'S ', 'C '}
+TOBJUR_FSR {'H ', 'O ', 'N ', 'C ', 'Eu '}
+gmof_Al2O6-fum_B-irmof10_B_No77 {'Al ', 'H ', 'O ', 'N ', 'C '}
+core_RUWZIU_freeONLY {'H ', 'O ', 'N ', 'Ni ', 'C '}
+boydwoo_str_m1_o1_o22_pcu_sym_74 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o13_o22_sra_sym_102 {'Al ', 'Cl ', 'H ', 'O ', 'C ', 'F '}
+gmof_Al2O6-irmof20_B-irmof7_B_No534 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_Al2O6-fum_B-irmof10_B_No41 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+boydwoo_str_m3_o5_o26_pcu_sym_96 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+OTOZII_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+EMAMIQ_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+BAKJII_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+core_OTIBUQ_freeONLY {'Al ', 'H ', 'O ', 'N ', 'C '}
+core_ECAHEX_freeONLY {'H ', 'O ', 'Cu ', 'N ', 'C '}
+tobacco_SR_xat_v1-4c_1anC_Ch_v2-6c_Zr_1_Ch_1B_4H_Ch_2x2x1 {'H ', 'Zr ', 'C ', 'O '}
+GACVIS_FSR {'Ni ', 'O ', 'C ', 'H '}
+tobacco_SR_xat_v1-4c_1anC_Ch_v2-6c_Hf_1_Ch_1B_4H_Ch_2x2x1 {'H ', 'O ', 'C ', 'Hf '}
+LUPVEZ_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+REBTIB_FSR {'H ', 'O ', 'N ', 'C ', 'Mn '}
+gmof_Al2O6-DPAC_B-fum_B_No168 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o4_o12_pcu_sym_23 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof16_B-irmof6_B_No78 {'Al ', 'H ', 'O ', 'C ', 'F '}
+LUMDIG_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+VUDZIE_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+core_TADYEE_freeONLY {'H ', 'O ', 'N ', 'Ni ', 'Mo ', 'C '}
+LUSJOZ_FSR {'H ', 'O ', 'N ', 'C ', 'Mn '}
+core_WEFCAN_freeONLY {'H ', 'O ', 'N ', 'S ', 'C ', 'Fe '}
+gmof_Al2O6-ADC_B-BDC_B_No449 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+core_MATTUX_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o9_o24_pcu_sym_87 {'Zn ', 'O ', 'C ', 'H '}
+core_OTIPAK_freeONLY {'Cd ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o10_o11_pcu_sym_227 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o12_o14_pcu_sym_106 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o24_o24_pcu_sym_168 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+tobacco_SR_ttv_v1-3c_triazine_Ch_v2-12c_Hf_1_Ch_1TrU_Ch_2x2x2 {'H ', 'O ', 'N ', 'C ', 'Hf '}
+MOF-5_cooh_2_163_1 {'Zn ', 'O ', 'C ', 'H '}
+QIWJAK_FSR {'Cd ', 'H ', 'O ', 'I ', 'N ', 'C '}
+boydwoo_str_m3_o1_o4_pcu_sym_11 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+GUCXAE_FSR {'H ', 'O ', 'N ', 'C ', 'Mn '}
+ZOZHON_FSR {'H ', 'Co ', 'O ', 'N ', 'C ', 'Pr '}
+boydwoo_str_m3_o10_o13_pcu_sym_98 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o10_o23_pcu_sym_65 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o17_o22_pcu_sym_162 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+tobacco_SR_ttv_v1-3c_triazine_Ch_v2-12c_Hf_1_Ch_1B_4H_Ch_2x2x2 {'H ', 'O ', 'N ', 'C ', 'Hf '}
+core_AVIMIC_freeONLY {'Zn ', 'O ', 'C ', 'H '}
+RUVBER_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+XAYMES_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+FITCUJ_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+VEJYIT_FSR {'Zn ', 'C ', 'H ', 'N '}
+boydwoo_str_m3_o1_o10_pcu_sym_23 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+TIXCEK_FSR {'Zn ', 'C ', 'H ', 'N '}
+gmof_Al2O6-BDC_B-TED_B_No6 {'Al ', 'H ', 'O ', 'C ', 'F '}
+NOWPEX01_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+pyrene_KUJZAT {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o12_o21_sra_sym_82 {'Al ', 'H ', 'O ', 'N ', 'C '}
+TIZCIR_FSR {'H ', 'I ', 'Cu ', 'S ', 'N ', 'C '}
+ZOHQIZ_FSR {'Ni ', 'O ', 'C ', 'H '}
+TOBKEC_FSR {'H ', 'O ', 'N ', 'Dy ', 'C '}
+ASOYOY_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+tobacco_SR_ttv_v1-3c_triazine_Ch_v2-12c_Zr_1_Ch_1TrU_Ch_2x2x2 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+EWESIJ_FSR {'W ', 'H ', 'Cu ', 'I ', 'S ', 'N ', 'C '}
+RAQFUL_FSR {'Cd ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+tobacco_SR_ttv_v1-3c_B_Ch_v2-12c_Hf_1_Ch_1B_4Br_Ch_2x2x2 {'H ', 'O ', 'Br ', 'C ', 'Hf '}
+ADODUU_FSR {'H ', 'Tb ', 'C ', 'O '}
+gmof_Al2O6-BDC_B-TED_B_No12 {'H ', 'Al ', 'C ', 'O '}
+QIVLUE_FSR {'H ', 'O ', 'Li ', 'Zn ', 'C '}
+CICYUJ_FSR {'Cl ', 'H ', 'Co ', 'O ', 'N ', 'C '}
+gmof_AlO6-pcn6_A_No10 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+LIVLUZ_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-mof177-N_No6 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-AZO_B-fum_B_No111 {'Al ', 'H ', 'O ', 'N ', 'C '}
+TABQAR_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+JIVFUQ_FSR {'H ', 'O ', 'P ', 'Zn ', 'C '}
+gmof_Al2O6-ADC_B-BDC_B_No347 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o1_o13_sra_sym_84 {'Al ', 'H ', 'O ', 'I ', 'C '}
+tobacco_SR_ttv_v1-3c_B_Ch_v2-12c_Zr_1_Ch_1B_4Br_Ch_2x2x2 {'H ', 'O ', 'Zr ', 'Br ', 'C '}
+ADODOO_FSR {'H ', 'O ', 'C ', 'Eu '}
+gmof_AlO6-mof177-N_No33 {'Al ', 'H ', 'O ', 'N ', 'C '}
+tobacco_SR_ttv_v1-3c_triazine_Ch_v2-12c_Zr_1_Ch_1B_4H_Ch_2x2x2 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+core_IYICUP_freeONLY {'H ', 'Co ', 'O ', 'N ', 'La ', 'C '}
+core_AMODUC_freeONLY {'Tb ', 'H ', 'O ', 'S ', 'C '}
+gmof_Al2O6-irmof20_B-irmof7_B_No109 {'Al ', 'Cl ', 'H ', 'O ', 'S ', 'C '}
+gmof_ZnN4-SiF6-irmof20_No2 {'H ', 'S ', 'Zn ', 'N ', 'C ', 'Si ', 'F '}
+boydwoo_str_m3_o11_o12_pcu_sym_260 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o11_o28_pcu_sym_242 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+WOHBOL_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+GUYMAP_FSR {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m3_o11_o16_pcu_sym_105 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+FESCEN_FSR {'H ', 'O ', 'N ', 'C ', 'Mn '}
+MOYYEF_FSR {'H ', 'O ', 'C ', 'Cu '}
+boydwoo_str_m5_Al_o12_o21_sra_sym_78 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o10_o10_pcu_sym_136 {'Zn ', 'O ', 'C ', 'H '}
+MOF-5_cooh_2_882_1 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+core_BARZUR_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+boydwoo_str_m1_o10_o10_pcu_sym_204 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o14_o24_pcu_sym_219 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+HIQVUZ_FSR {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o1_o16_pcu_sym_154 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+AGEDIC_FSR {'H ', 'O ', 'C ', 'Ga '}
+QEZBUV_FSR {'Cd ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o12_o29_pcu_sym_116 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o9_o11_pcu_sym_191 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+SATBEW_FSR {'W ', 'H ', 'Cu ', 'S ', 'N ', 'Br ', 'C '}
+WAMRIN02_FSR {'H ', 'O ', 'N ', 'C ', 'Mg '}
+GECXUH01_FSR {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o11_o29_pcu_sym_62 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o18_o25_sra_sym_33 {'Al ', 'H ', 'O ', 'S ', 'C '}
+ZOHPIY_FSR {'H ', 'O ', 'C ', 'Mg '}
+boydwoo_str_m3_o13_o22_pcu_sym_4 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m5_Al_o25_o25_sra_sym_14 {'Al ', 'H ', 'O ', 'S ', 'C '}
+boydwoo_str_m3_o4_o28_pcu_sym_136 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+ADODII_FSR {'La ', 'O ', 'C ', 'H '}
+XUVHEB_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o10_pcu_sym_10 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+VUWZEV_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+PAVREK_FSR {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o19_o22_sra_sym_26 {'H ', 'Al ', 'C ', 'O '}
+core_ERIWAF_freeONLY {'H ', 'O ', 'Cu ', 'N ', 'C '}
+gmof_Al2O6-irmof14_B-irmof7_B_No2 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+UGOFUT_FSR {'H ', 'O ', 'N ', 'C ', 'Fe '}
+boydwoo_str_m3_o2_o18_pcu_sym_80 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+WIFBAQ_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o11_o16_pcu_sym_108 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof20_B-irmof7_B_No513 {'Al ', 'H ', 'O ', 'S ', 'C ', 'F '}
+gmof_AlO6-mof177-N_No7 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+ISEMEY_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+boydwoo_str_m1_o9_o24_pcu_sym_14 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+IRAYEG_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+GIYJAB_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+gmof_Al2O6-irmof10_B-irmof7_B_No391 {'Al ', 'Cl ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o10_o25_pcu_sym_124 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-AZO_B-fum_B_No75 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C ', 'F '}
+tobacco_SR_ttv_v1-3c_pyrrole_Ch_v2-12c_Hf_1_Ch_1B_4H_Ch_2x2x2 {'H ', 'O ', 'N ', 'C ', 'Hf '}
+NUDLOP01_FSR {'H ', 'O ', 'N ', 'C ', 'Mg '}
+ROCZUG_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+core_ACAJIZ_freeONLY {'H ', 'O ', 'Cu ', 'N ', 'C '}
+BUSNOU_FSR {'Cl ', 'H ', 'Gd ', 'N ', 'C '}
+gmof_AlO6-mof177-N_No15 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o5_o23_pcu_sym_28 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+EPEWAY01_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+QAKWUX_FSR {'Ru ', 'H ', 'O ', 'N ', 'C ', 'F '}
+AFITIT_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+MOF-5_cooh_2_1005_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_COMDOY_freeONLY {'H ', 'O ', 'C ', 'Ga '}
+GALCED_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o5_o11_sra_sym_50 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+UYAQAN_FSR {'H ', 'C ', 'Mg ', 'N '}
+boydwoo_str_m5_Al_o12_o22_sra_sym_142 {'H ', 'Al ', 'C ', 'O '}
+tobacco_SR_ttv_v1-3c_pyrrole_Ch_v2-12c_Zr_1_Ch_1B_4H_Ch_2x2x2 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+gmof_Al2O6-DPAC_B-fum_B_No232 {'Al ', 'H ', 'O ', 'N ', 'C '}
+MARKEX_FSR {'H ', 'O ', 'S ', 'Ba ', 'C '}
+NEVVAM01_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+core_BOYYOF_freeONLY {'Cd ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-irmof20_B-irmof7_B_No176 {'Al ', 'Cl ', 'H ', 'O ', 'S ', 'C ', 'F '}
+boydwoo_str_m1_o5_o24_pcu_sym_168 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o10_o26_pcu_sym_241 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof10_B-irmof7_B_No154 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m5_Al_o19_o23_sra_sym_93 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m5_Al_o6_o16_sra_sym_101 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+boydwoo_str_m5_Al_o7_o20_sra_sym_43 {'H ', 'Al ', 'C ', 'O '}
+core_FUTKEL_manual {'H ', 'O ', 'N ', 'Zn ', 'C '}
+BUVWOF03_FSR {'H ', 'C ', 'Fe ', 'N '}
+core_BUSRUE_freeONLY {'Cd ', 'H ', 'O ', 'N ', 'C '}
+DUHPUT_FSR {'H ', 'N ', 'S ', 'C ', 'Fe '}
+core_IGOJEV_freeONLY {'Cd ', 'H ', 'O ', 'N ', 'C '}
+MOF-5_cooh_2_398_2 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+tobacco_SR_ttv_v1-3c_triazine_Ch_v2-12c_Hf_1_Ch_1B_4H_Ch_1TrU_Ch_2x2x2 {'H ', 'O ', 'N ', 'C ', 'Hf '}
+WOWNED_FSR {'H ', 'O ', 'N ', 'Ni ', 'S ', 'C '}
+boydwoo_str_m3_o1_o4_pcu_sym_33 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o10_o18_pcu_sym_217 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Al2O6-irmof16_B-irmof6_B_No32 {'Al ', 'H ', 'O ', 'C ', 'F '}
+WORTAA_FSR {'Cd ', 'H ', 'O ', 'N ', 'C ', 'B ', 'F '}
+boydwoo_str_m3_o22_o25_pcu_sym_152 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+ZAGFOF_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o11_o25_pcu_sym_16 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o4_o18_pcu_sym_95 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o12_o12_pcu_sym_93 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+core_FECZAQ_manual {'Zn ', 'O ', 'C ', 'H '}
+gmof_Uio66Zr-irmof10_A-irmof14_A_No468 {'H ', 'O ', 'Zr ', 'Br ', 'C '}
+ZOGROF_FSR {'H ', 'Zr ', 'C ', 'O '}
+boydwoo_str_m3_o11_o28_pcu_sym_152 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o19_pcu_sym_41 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_ZnN4-SiF6-irmof20_No1 {'H ', 'S ', 'Zn ', 'N ', 'C ', 'Si ', 'F '}
+boydwoo_str_m3_o6_o10_pcu_sym_106 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+UJIZET_FSR {'H ', 'O ', 'Nd ', 'C '}
+gmof_Al2O6-DPAC_B-fum_B_No14 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o12_o13_pcu_sym_248 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+YAKBOE_FSR {'H ', 'O ', 'N ', 'C ', 'In '}
+boydwoo_str_m3_o14_o25_pcu_sym_89 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m1_o5_o9_pcu_sym_33 {'Zn ', 'O ', 'C ', 'H '}
+EYOPUE_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+MIJSII_FSR {'H ', 'O ', 'C ', 'Cu '}
+NEKCIS_FSR {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+core_CEJBEA_freeONLY {'H ', 'O ', 'N ', 'Dy ', 'C '}
+core_IWOKUC_freeONLY {'H ', 'O ', 'N ', 'S ', 'C ', 'Fe '}
+MOF-5_cooh_2_1957_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-BDC_B-irmof20_B_No102 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m5_Al_o6_o18_sra_sym_50 {'H ', 'Al ', 'C ', 'O '}
+EYOQAL_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o1_o14_pcu_sym_230 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+WUZGEF01_FSR {'H ', 'Cd ', 'C ', 'O '}
+CARGAG_FSR {'Cd ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m3_o1_o26_pcu_sym_228 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o4_o9_pcu_sym_54 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m5_Al_o17_o24_sra_sym_52 {'Al ', 'H ', 'O ', 'N ', 'Br ', 'C '}
+boydwoo_str_m3_o18_o19_pcu_sym_140 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_AlO6-mof177_No23 {'Al ', 'H ', 'O ', 'S ', 'C '}
+boydwoo_str_m1_o4_o11_pcu_sym_196 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o6_o18_sra_sym_97 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o4_o8_pcu_sym_198 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+WUHJIT_FSR {'H ', 'O ', 'C ', 'Mg '}
+tobacco_SR_ttv_v1-3c_triazine_Ch_v2-12c_Zr_1_Ch_1B_4H_Ch_1TrU_Ch_2x2x2 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+UYAQER_FSR {'Zn ', 'C ', 'H ', 'N '}
+gmof_Al2O6-irmof20_B-irmof7_B_No489 {'Al ', 'H ', 'O ', 'S ', 'Br ', 'C '}
+RELLAW_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o17_o22_sra_sym_3 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o4_o24_pcu_sym_178 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+BOZFAZ_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-pcn6_B_No18 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+gmof_Al2O6-irmof10_B-irmof7_B_No681 {'Al ', 'H ', 'O ', 'N ', 'C '}
+PUZTOV_FSR {'Ca ', 'Cd ', 'H ', 'O ', 'C '}
+boydwoo_str_m3_o10_o11_pcu_sym_193 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_CuN4-SiF6-irmof8_No1 {'H ', 'Cu ', 'N ', 'C ', 'Si ', 'F '}
+NUVXOT_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o10_o10_pcu_sym_178 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o4_o24_sra_sym_28 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m1_o22_o24_pcu_sym_13 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o10_o18_pcu_sym_4 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+core_YEYCUC_SL {'H ', 'Zr ', 'C ', 'O '}
+UPIBOM_FSR {'H ', 'Tb ', 'C ', 'O '}
+core_NUDLIJ_freeONLY {'H ', 'O ', 'N ', 'C ', 'Mg '}
+boydwoo_str_m5_Al_o4_o19_sra_sym_64 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+boydwoo_str_m3_o13_o18_pcu_sym_221 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_AlO6-mof177-N_No21 {'Al ', 'H ', 'O ', 'N ', 'Br ', 'C '}
+HAWYUB_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+ASAFEF_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o10_o26_pcu_sym_138 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o4_o9_pcu_sym_213 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-AZO_B-fum_B_No78 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+core_RAZYOI_freeONLY {'Cl ', 'H ', 'Cu ', 'N ', 'C '}
+boydwoo_str_m3_o11_o28_pcu_sym_31 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+FAMQES_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+core_BUSNAF_freeONLY {'H ', 'Co ', 'C ', 'N '}
+gmof_Al2O6-irmof20_B-irmof7_B_No100 {'Al ', 'H ', 'O ', 'S ', 'Br ', 'C '}
+boydwoo_str_m3_o16_o24_pcu_sym_133 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-ADC_B-BDC_B_No265 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+boydwoo_str_m3_o2_o9_pcu_sym_210 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m5_Al_o17_o20_sra_sym_92 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o4_o18_pcu_sym_175 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+COMMEZ_FSR {'H ', 'O ', 'N ', 'La ', 'S ', 'C '}
+core_ILIMOH_freeONLY {'Ni ', 'C ', 'H ', 'N '}
+core_MUNPER_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof20_B-irmof7_B_No37 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_Uio66Zr-irmof10_A-irmof14_A_No287 {'H ', 'O ', 'N ', 'Zr ', 'C ', 'F '}
+ODEPOF_FSR {'H ', 'C ', 'Fe ', 'N '}
+core_IFENOY03_SL {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_HAMJOW_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o19_o23_sra_sym_35 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-irmof10_B-irmof7_B_No597 {'Al ', 'H ', 'O ', 'N ', 'C '}
+GEFZAU_FSR {'Cl ', 'H ', 'Cu ', 'N ', 'P ', 'C '}
+boydwoo_str_m3_o12_o29_pcu_sym_142 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof20_B-irmof7_B_No387 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'S ', 'C '}
+gmof_AlO6-mof177-N_No23 {'Al ', 'H ', 'O ', 'N ', 'C '}
+PARNON_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+boydwoo_str_m5_Al_o1_o17_sra_sym_44 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+gmof_Uio66Zr-irmof10_A-irmof14_A_No285 {'H ', 'O ', 'N ', 'Zr ', 'C ', 'F '}
+DUDLIY_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+boydwoo_str_m3_o22_o28_pcu_sym_61 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o14_o24_pcu_sym_178 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+tobacco_SR_ttv_v1-3c_B_Ch_v2-12c_Zr_1_Ch_1B_4H_Ch_1TrU_Ch_2x2x2 {'H ', 'Zr ', 'C ', 'O '}
+MOF-5_cooh_2_1055_1 {'Zn ', 'O ', 'C ', 'H '}
+core_BEPRIZ_freeONLY {'H ', 'Co ', 'O ', 'N ', 'C '}
+REDMUL_FSR {'H ', 'Y ', 'O ', 'P ', 'C '}
+boydwoo_str_m3_o11_o28_pcu_sym_134 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o11_pcu_sym_55 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+KESHUN_FSR {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o19_o23_sra_sym_101 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+WIMYOJ_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+YAMXOC_FSR {'H ', 'O ', 'C ', 'In '}
+gmof_Al2O6-irmof20_B-irmof7_B_No130 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+core_QOHTUD_freeONLY {'H ', 'Co ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o5_o25_pcu_sym_67 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_RUWZOA_freeONLY {'H ', 'O ', 'N ', 'Ni ', 'C '}
+boydwoo_str_m5_Al_o11_o24_sra_sym_19 {'Al ', 'H ', 'O ', 'I ', 'C '}
+boydwoo_str_m5_Al_o11_o17_sra_sym_208 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o13_o14_pcu_sym_50 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o11_o11_pcu_sym_175 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Uio66Zr-irmof10_A-irmof14_A_No122 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+boydwoo_str_m3_o4_o7_pcu_sym_199 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-pcn6_A_No8 {'Al ', 'H ', 'O ', 'N ', 'C '}
+MOF-5_cooh_2_785_1 {'Zn ', 'O ', 'C ', 'H '}
+core_FIHRIZ_freeONLY {'H ', 'O ', 'N ', 'Ni ', 'C '}
+EMAMOW_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+gmof_Al2O6-BDC_B-irmof8_B_No12 {'H ', 'Al ', 'C ', 'O '}
+core_XEGKOL_freeONLY {'H ', 'O ', 'Gd ', 'N ', 'C '}
+boydwoo_str_m1_o5_o17_pcu_sym_39 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+gmof_Uio66Zr-irmof10_A-irmof14_A_No103 {'Cl ', 'H ', 'O ', 'Zr ', 'C '}
+boydwoo_str_m1_o10_o10_pcu_sym_76 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o4_o11_pcu_sym_83 {'H ', 'O ', 'I ', 'Zn ', 'C '}
+FUZVUT02_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o14_pcu_sym_42 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_AlO6-pcn6_B_No14 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o18_o25_sra_sym_233 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o1_o23_pcu_sym_23 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o19_o23_pcu_sym_131 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o4_o25_pcu_sym_101 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+FISQIK_FSR {'H ', 'Co ', 'O ', 'C '}
+KATDAM_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o1_o25_pcu_sym_199 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-BDC_B-irmof20_B_No260 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m5_Al_o13_o19_sra_sym_104 {'H ', 'Al ', 'C ', 'O '}
+tobacco_SR_mrc_v1-6c_Zr_1_Ch_v2-4c_1anC_Ch_1B_2F_Ch_2x1x2 {'H ', 'O ', 'Zr ', 'C ', 'F '}
+GUYLOC_FSR {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m1_o5_o15_pcu_sym_13 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m1_o10_o10_pcu_sym_11 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o13_o19_sra_sym_136 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o10_o19_pcu_sym_74 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o1_o13_sra_sym_67 {'Al ', 'H ', 'O ', 'N ', 'C '}
+EJIBUW_FSR {'Zn ', 'C ', 'H ', 'N '}
+core_EDUTIG_freeONLY {'Zn ', 'O ', 'C ', 'H '}
+DIMQEX_FSR {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m5_Al_o17_o25_sra_sym_88 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o19_o25_sra_sym_77 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o4_o26_pcu_sym_14 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+ACAJOF_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+tobacco_SR_mrc_v1-6c_Hf_1_Ch_v2-4c_1anC_Ch_1B_2F_Ch_2x1x2 {'H ', 'O ', 'C ', 'Hf ', 'F '}
+boydwoo_str_m3_o4_o23_pcu_sym_41 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_YUXQOY_freeONLY {'Cd ', 'H ', 'O ', 'N ', 'C '}
+DIDBEZ_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+core_AXUBAW_manual {'Zn ', 'O ', 'C ', 'H '}
+WOQTUT_FSR {'H ', 'O ', 'C ', 'Fe '}
+boydwoo_str_m5_Al_o16_o23_sra_sym_139 {'Al ', 'H ', 'O ', 'N ', 'C '}
+core_OLEKUM_manual {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-BDC_B-DPAC_B_No237 {'Al ', 'H ', 'O ', 'N ', 'C '}
+MUGHED_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o13_o16_pcu_sym_214 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o4_o21_pcu_sym_3 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A_No21 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o6_o18_sra_sym_99 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+core_HASMIZ_freeONLY {'H ', 'Co ', 'O ', 'N ', 'C '}
+gmof_Al2O6-ADC_B-BDC_B_No500 {'H ', 'Al ', 'C ', 'O '}
+core_WENLAE_manual {'H ', 'O ', 'S ', 'Dy ', 'C '}
+gmof_Zn2O8N2-irmof14_A-irmof7_A_No160 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+TEQTEQ_FSR {'H ', 'O ', 'N ', 'S ', 'C ', 'Mn '}
+boydwoo_str_m5_Al_o18_o20_sra_sym_8 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o4_o4_pcu_sym_199 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+EMITUQ01_FSR {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+MOF-5_cooh_2_462_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+SUPLOF_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_WENKUX_manual {'Tb ', 'H ', 'O ', 'S ', 'C '}
+core_VEXVAW_freeONLY {'H ', 'O ', 'N ', 'C ', 'Fe '}
+gmof_Al2O6-irmof7_B-irmof8_B_No25 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn2O8N2-irmof6_A-irmof7_A_No219 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o18_o22_pcu_sym_232 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+RORVAX_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o2_o9_pcu_sym_96 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-BDC_B-irmof10_B_No186 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn2O8N2-BDC_A-irmof14_A_No133 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o16_o22_pcu_sym_55 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_ZnN4-SiF6-irmof8_No1 {'H ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+core_BEPROF_freeONLY {'H ', 'O ', 'N ', 'Ni ', 'C '}
+boydwoo_str_m5_Al_o4_o19_sra_sym_55 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+boydwoo_str_m3_o23_o24_pcu_sym_217 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+CUHPUR_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+core_FARBIL_freeONLY {'H ', 'O ', 'C ', 'V '}
+boydwoo_str_m5_Al_o13_o19_sra_sym_9 {'Al ', 'H ', 'O ', 'N ', 'Br ', 'C '}
+OGAXUR_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o4_o17_sra_sym_44 {'H ', 'Al ', 'C ', 'O '}
+ZEGVOZ_FSR {'H ', 'Ag ', 'O ', 'N ', 'C ', 'F '}
+ZOHCEH_FSR {'H ', 'Co ', 'O ', 'C '}
+TEQTAM_FSR {'Cd ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m1_o10_o10_pcu_sym_193 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o4_o12_sra_sym_88 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m1_o4_o9_pcu_sym_226 {'Zn ', 'O ', 'C ', 'H '}
+core_RAZYIC_freeONLY {'H ', 'I ', 'Cu ', 'N ', 'C '}
+core_EDOMAM_freeONLY {'H ', 'O ', 'Cu ', 'N ', 'C '}
+MOF-5_cooh_2_573_2 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+gmof_Al2O6-irmof20_B-TED_B_No4 {'Al ', 'Cl ', 'H ', 'O ', 'S ', 'C '}
+PAYZEX_FSR {'Cl ', 'H ', 'O ', 'N ', 'C ', 'Mn '}
+boydwoo_str_m3_o1_o12_pcu_sym_82 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+MOF-5_cooh_2_858_3 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o2_o18_pcu_sym_186 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+BUSMUY_FSR {'H ', 'Co ', 'C ', 'N '}
+boydwoo_str_m3_o14_o21_pcu_sym_225 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o11_o17_sra_sym_67 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-mof177-N_No25 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o20_o22_sra_sym_37 {'Al ', 'H ', 'O ', 'I ', 'N ', 'C '}
+boydwoo_str_m5_Al_o2_o11_sra_sym_11 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+OGECOU_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+boydwoo_str_m3_o17_o20_pcu_sym_133 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+core_VEQBID_freeONLY {'H ', 'O ', 'N ', 'Ni ', 'C '}
+boydwoo_str_m3_o4_o26_pcu_sym_203 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+DUBKAO_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+ACODAA_FSR {'H ', 'C ', 'Fe ', 'N '}
+KITHUR_FSR {'H ', 'O ', 'N ', 'C ', 'Pr '}
+boydwoo_str_m3_o13_o16_pcu_sym_94 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+KITHEB_FSR {'H ', 'O ', 'N ', 'C ', 'Eu '}
+ONURAR_FSR {'H ', 'O ', 'Gd ', 'N ', 'C '}
+VUQJUN_FSR {'H ', 'O ', 'N ', 'C ', 'Mn '}
+boydwoo_str_m5_Al_o4_o17_sra_sym_107 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn4O13-BDC_A-imd_No4 {'Zn ', 'O ', 'Br ', 'C '}
+OHOFIA_FSR {'H ', 'Co ', 'O ', 'N ', 'S ', 'C '}
+core_AGARUW_freeONLY {'H ', 'O ', 'N ', 'La ', 'C '}
+gmof_Al2O6-BDC_B-irmof20_B_No20 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m3_o2_o4_pcu_sym_119 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o4_o23_pcu_sym_219 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o4_o17_sra_sym_88 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m5_Al_o4_o17_sra_sym_74 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o17_o23_sra_sym_4 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m1_o4_o9_pcu_sym_199 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+MIJBAK01_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+boydwoo_str_m5_Al_o4_o20_sra_sym_58 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o1_o24_pcu_sym_132 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+MOF-5_cooh_2_47_1 {'Zn ', 'O ', 'C ', 'F '}
+boydwoo_str_m1_o4_o15_pcu_sym_84 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_OPOZEZ_freeONLY {'Cd ', 'H ', 'O ', 'N ', 'C '}
+HEDCIE_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+boydwoo_str_m1_o4_o14_pcu_sym_39 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o4_o11_pcu_sym_12 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o12_o25_pcu_sym_44 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o22_pcu_sym_22 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+HIFVUO_FSR {'Zn ', 'C ', 'H ', 'N '}
+boydwoo_str_m5_Al_o4_o13_sra_sym_43 {'Al ', 'H ', 'O ', 'Br ', 'C ', 'F '}
+core_FARFOU_freeONLY {'H ', 'I ', 'N ', 'Zn ', 'C '}
+IQIMUS_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+gmof_Uio66Zr-irmof10_A-irmof14_A_No426 {'Cl ', 'H ', 'O ', 'N ', 'Zr ', 'C '}
+MOF-5_cooh_2_2031_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o16_o20_pcu_sym_211 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o16_o22_pcu_sym_33 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o13_o24_sra_sym_85 {'Al ', 'H ', 'O ', 'Br ', 'C ', 'F '}
+ZIFNUA_FSR {'H ', 'O ', 'N ', 'C ', 'Mn '}
+gmof_Al2O6-ADC_B-BDC_B_No410 {'Al ', 'H ', 'O ', 'N ', 'C '}
+BEVYUX_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+gmof_Al2O6-BDC_B-DPAC_B_No147 {'Al ', 'H ', 'O ', 'C ', 'F '}
+MATVAF_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+QAMKOH_FSR {'H ', 'O ', 'N ', 'C ', 'In '}
+HATGUF01_FSR {'H ', 'O ', 'C ', 'Cu '}
+MOF-5_cooh_2_1175_1 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+MINCIX_FSR {'H ', 'Tb ', 'C ', 'O '}
+core_HIHGUC_freeONLY {'H ', 'Cd ', 'C ', 'O '}
+DUBJUH_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o21_o23_pcu_sym_12 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-DPAC_B-irmof7_B_No365 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_AlO6-irmof7_A_No1 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m5_Al_o13_o24_sra_sym_2 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-ADC_B-BDC_B_No519 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o4_o16_pcu_sym_113 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_REXDOP_freeONLY {'H ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o11_o23_pcu_sym_54 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_Al2O6-DPAC_B-irmof7_B_No382 {'Al ', 'Cl ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m5_Al_o11_o24_sra_sym_159 {'H ', 'Al ', 'C ', 'O '}
+core_GEFYUN_freeONLY {'H ', 'Cu ', 'P ', 'N ', 'Br ', 'C '}
+boydwoo_str_m3_o24_o27_pcu_sym_223 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o4_o12_sra_sym_123 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o5_o13_pcu_sym_16 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Uio66Zr-irmof10_A-irmof14_A_No418 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+core_MAYJOM_freeONLY {'H ', 'O ', 'C ', 'In '}
+boydwoo_str_m3_o16_o24_pcu_sym_8 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+ISOHEE_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+LONVIV_FSR {'Cl ', 'H ', 'O ', 'N ', 'C ', 'Mn '}
+MOKYUI_FSR {'H ', 'O ', 'N ', 'Yb ', 'C '}
+KITGUQ_FSR {'H ', 'O ', 'Nd ', 'N ', 'C '}
+gmof_Al2O6-irmof10_B-irmof7_B_No24 {'Al ', 'H ', 'O ', 'C ', 'F '}
+KITHIF_FSR {'Lu ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o11_o17_sra_sym_1 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o1_o18_pcu_sym_120 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o1_o29_pcu_sym_7 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Uio66Zr-irmof10_A-irmof14_A_No76 {'H ', 'O ', 'N ', 'Zr ', 'Br ', 'C '}
+GALBUS_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+boydwoo_str_m5_Al_o17_o17_sra_sym_69 {'H ', 'Al ', 'C ', 'O '}
+gmof_Al2O6-BDC_B-irmof8_B_No11 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o4_o14_pcu_sym_240 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o5_o25_pcu_sym_49 {'Zn ', 'O ', 'C ', 'H '}
+MOF-5_cooh_2_2285_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+WAMRIN01_FSR {'H ', 'O ', 'N ', 'C ', 'Mg '}
+boydwoo_str_m3_o22_o29_pcu_sym_134 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o17_o24_pcu_sym_99 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+ANAWOD_FSR {'H ', 'O ', 'C ', 'In ', 'F '}
+gmof_Al2O6-irmof12_B-irmof6_B_No2 {'Al ', 'H ', 'O ', 'C ', 'F '}
+core_DONNAW01_SL {'H ', 'O ', 'C ', 'Ga '}
+boydwoo_str_m1_o10_o16_pcu_sym_198 {'Zn ', 'O ', 'C ', 'H '}
+SEFLAT_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o19_o22_pcu_sym_39 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Uio66Zr-irmof10_A-irmof14_A_No430 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+boydwoo_str_m3_o18_o22_pcu_sym_8 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o11_o17_sra_sym_123 {'H ', 'Al ', 'C ', 'O '}
+tobacco_SR_ttv_v1-3c_B_Ch_v2-12c_Hf_1_Ch_1B_4H_Ch_2x2x2 {'H ', 'O ', 'C ', 'Hf '}
+IZEWAN_FSR {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o16_o22_pcu_sym_34 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o13_o22_sra_sym_92 {'H ', 'Al ', 'C ', 'O '}
+MOF-5_cooh_2_399_2 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o24_o28_pcu_sym_244 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o10_o13_pcu_sym_28 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o13_o25_sra_sym_42 {'Al ', 'H ', 'O ', 'N ', 'C '}
+KUTPAS_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o11_o22_sra_sym_14 {'Al ', 'H ', 'O ', 'S ', 'C '}
+core_LOBHAM_freeONLY {'H ', 'O ', 'N ', 'Ni ', 'C '}
+boydwoo_str_m3_o24_o29_pcu_sym_257 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o24_o28_pcu_sym_35 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+PUFYEW_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-mof177_No11 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m1_o4_o24_pcu_sym_3 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-BDC_B-irmof20_B_No150 {'Al ', 'Cl ', 'H ', 'O ', 'S ', 'C ', 'F '}
+tobacco_SR_ttv_v1-3c_B_Ch_v2-12c_Zr_1_Ch_1B_4H_Ch_2x2x2 {'H ', 'Zr ', 'C ', 'O '}
+boydwoo_str_m3_o12_o23_pcu_sym_247 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o22_o28_pcu_sym_208 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o13_o16_pcu_sym_155 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o22_o28_pcu_sym_84 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o11_o28_pcu_sym_200 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o17_o23_sra_sym_61 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+boydwoo_str_m3_o24_o29_pcu_sym_35 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o26_pcu_sym_171 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o1_o18_pcu_sym_119 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m3_o17_o20_pcu_sym_216 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_PARHAS_freeONLY {'H ', 'Ca ', 'O ', 'C '}
+LURGEL_FSR {'H ', 'O ', 'N ', 'Zn ', 'C ', 'Si '}
+gmof_Zn4O13-DPAC_A-TED_A_No21 {'Zn ', 'O ', 'C ', 'H '}
+VASGII_FSR {'H ', 'O ', 'C ', 'In '}
+core_OGOWAJ_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o11_o24_sra_sym_120 {'H ', 'Al ', 'C ', 'O '}
+gmof_Al2O6-DPAC_B-irmof7_B_No335 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+KUWCEM_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+boydwoo_str_m5_Al_o2_o13_sra_sym_102 {'Al ', 'H ', 'O ', 'N ', 'C '}
+MOF-5_cooh_2_27_3 {'Zn ', 'O ', 'C ', 'H '}
+PIXLOA_FSR {'H ', 'O ', 'Nd ', 'N ', 'C '}
+gmof_Zn4O13-irmof20_A-TED_A_No9 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+VURMOL_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_LUYHAP_freeONLY {'H ', 'O ', 'C ', 'Cu '}
+gmof_Zn2O8N2-TED-BDC_No5 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o11_o24_sra_sym_162 {'Al ', 'H ', 'O ', 'S ', 'C '}
+core_DIWNAA_freeONLY {'H ', 'O ', 'N ', 'C ', 'Mg '}
+boydwoo_str_m5_Al_o19_o25_sra_sym_54 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o24_o28_pcu_sym_212 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o4_o4_pcu_sym_78 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o16_o23_sra_sym_66 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m5_Al_o8_o16_sra_sym_26 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m3_o13_o14_pcu_sym_9 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof10_B-TED_B_No10 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m5_Al_o7_o18_sra_sym_79 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o13_o23_pcu_sym_126 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-BDC_B-irmof20_B_No284 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m5_Al_o19_o25_sra_sym_27 {'Al ', 'H ', 'O ', 'I ', 'C '}
+boydwoo_str_m3_o1_o18_pcu_sym_199 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_SABVOH01_freeONLY {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o1_o11_pcu_sym_11 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+MOF-5_cooh_2_1426_2 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_FEFCUQ_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_QATHOK_freeONLY {'Cd ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-BDC_A-NiC4_No10 {'Zn ', 'O ', 'C ', 'Cl '}
+XIDBUJ_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o16_o24_pcu_sym_56 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof10_B-irmof7_B_No19 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+boydwoo_str_m3_o11_o21_pcu_sym_58 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_AlO6-mof177-N_No12 {'Al ', 'H ', 'O ', 'N ', 'C '}
+UZUNAF01_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+boydwoo_str_m1_o4_o7_pcu_sym_156 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-BDC_B-irmof20_B_No285 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+gmof_Uio66Zr-irmof10_A-irmof14_A_No436 {'H ', 'O ', 'N ', 'Zr ', 'C ', 'F '}
+boydwoo_str_m3_o12_o23_pcu_sym_60 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o22_o29_pcu_sym_76 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Uio66Zr-DPAC_A-NiC4_No3 {'H ', 'O ', 'Zr ', 'Br ', 'C '}
+ESIYEM_FSR {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m3_o13_o25_pcu_sym_187 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o1_o29_pcu_sym_168 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-irmof10_B-irmof7_B_No705 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+MOF-5_cooh_2_1708_1 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o21_o26_pcu_sym_200 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+QUNXEE_FSR {'Cd ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-irmof10_B-irmof7_B_No241 {'Al ', 'Cl ', 'H ', 'O ', 'C ', 'F '}
+gmof_Zn4O13-irmof8_A-TED_A_No13 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o14_o18_pcu_sym_56 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+MOF-5_cooh_2_878_1 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+boydwoo_str_m3_o13_o28_pcu_sym_188 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o22_o29_pcu_sym_60 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+MOF-5_cooh_2_611_1 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m1_o4_o14_pcu_sym_196 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+VACFOV01_FSR {'H ', 'O ', 'C ', 'In '}
+boydwoo_str_m3_o1_o17_pcu_sym_110 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o11_o23_pcu_sym_256 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-irmof8_A-TED_A_No12 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No41 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+gmof_Zn4O13-irmof8_A-TED_A_No7 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o4_o25_pcu_sym_37 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o22_o29_pcu_sym_167 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o23_o23_sra_sym_214 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o4_o29_pcu_sym_150 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o19_o22_pcu_sym_75 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o4_o8_pcu_sym_192 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_Zn4O13-DPAC_A-TED_A_No39 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_LATPIG_freeONLY {'H ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-AZO_B-irmof7_B_No278 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'S ', 'C '}
+gmof_AlO6-irmof6_A_No18 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_Uio66Zr-irmof10_A-irmof14_A_No199 {'H ', 'O ', 'Zr ', 'Br ', 'C '}
+gmof_Zn4O13-irmof8_A-TED_A_No15 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o12_o18_pcu_sym_103 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o14_o19_pcu_sym_243 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof20_B-TED_B_No8 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m3_o3_o5_pcu_sym_50 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o12_o23_pcu_sym_173 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o1_o11_sra_sym_124 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o11_o25_pcu_sym_197 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o4_o21_pcu_sym_233 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o4_o9_pcu_sym_196 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o12_o28_pcu_sym_148 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-irmof8_A-TED_A_No5 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+gmof_Zn4O13-DPAC_A-TED_A_No10 {'Zn ', 'O ', 'C ', 'H '}
+core_CUNWEO_freeONLY {'Cd ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o14_o18_pcu_sym_45 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-irmof8_A-TED_A_No2 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+MOF-5_cooh_2_559_2 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-pcn6_A_No2 {'Al ', 'H ', 'O ', 'N ', 'Br ', 'C '}
+boydwoo_str_m3_o1_o29_pcu_sym_111 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-AZO_B-BDC_B_No92 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-mof177-N_No31 {'Al ', 'H ', 'O ', 'N ', 'C '}
+MOF-5_cooh_2_469_2 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o2_o24_pcu_sym_63 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+XIVTED_FSR {'H ', 'O ', 'N ', 'Zr ', 'C '}
+gmof_AlO6-mof177-N_No13 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o18_o19_pcu_sym_70 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o11_o25_pcu_sym_68 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-BDC_A-pmof1_A_No12 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No49 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o18_o22_pcu_sym_83 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-irmof8_A-TED_A_No17 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Al2O6-BDC_B-irmof20_B_No81 {'Al ', 'H ', 'O ', 'S ', 'C '}
+boydwoo_str_m5_Al_o2_o13_sra_sym_11 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o4_o28_pcu_sym_230 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+core_QOQWOK01_freeONLY {'H ', 'O ', 'N ', 'C ', 'Mn '}
+gmof_AlO6-mof177_No10 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m5_Al_o11_o13_sra_sym_174 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m5_Al_o6_o13_sra_sym_56 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+VUWTAL_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-AZO_B-BDC_B_No74 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o1_o11_sra_sym_101 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o1_o29_pcu_sym_66 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+MOF-5_cooh_2_802_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o1_o28_pcu_sym_48 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o11_o25_pcu_sym_94 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+GASSUR_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o21_o26_sra_sym_130 {'Al ', 'H ', 'O ', 'N ', 'C '}
+core_FARFIO_freeONLY {'H ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o12_o26_pcu_sym_7 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o4_o22_pcu_sym_248 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_FEFDAX_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof10_B-irmof7_B_No145 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+boydwoo_str_m3_o4_o21_pcu_sym_39 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof10_B-irmof7_B_No13 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No57 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C ', 'F '}
+gmof_Al2O6-BDC_B-irmof12_B_No6 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o23_o25_pcu_sym_75 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o11_o24_sra_sym_211 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+ILUDAV_FSR {'Tb ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o23_o23_sra_sym_146 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o16_o17_sra_sym_61 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m1_o11_o14_pcu_sym_195 {'Zn ', 'O ', 'C ', 'H '}
+PATWOY_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o11_o21_pcu_sym_32 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No58 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C ', 'F '}
+gmof_Al2O6-BDC_B-irmof6_B_No12 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o4_o25_pcu_sym_139 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o10_o12_pcu_sym_172 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o24_o24_pcu_sym_175 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o11_o19_sra_sym_96 {'Al ', 'H ', 'O ', 'I ', 'C '}
+gmof_AlO6-pcn6_B_No2 {'Al ', 'H ', 'O ', 'N ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o18_o23_sra_sym_52 {'H ', 'Al ', 'C ', 'O '}
+core_DUPKAC_freeONLY {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o13_o26_pcu_sym_246 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+ILUCOI_FSR {'H ', 'O ', 'N ', 'C ', 'Eu '}
+MATVEJ_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-BDC_B-irmof20_B_No9 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m5_Al_o7_o18_sra_sym_65 {'Al ', 'H ', 'O ', 'C ', 'F '}
+core_TACPAP_freeONLY {'Zn ', 'O ', 'C ', 'H '}
+gmof_Al2O6-BDC_B-irmof12_B_No12 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn4O13-irmof8_A-TED_A_No9 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+IDIWOH02_FSR {'H ', 'O ', 'C ', 'V '}
+boydwoo_str_m1_o11_o22_pcu_sym_96 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Al2O6-irmof10_B-irmof7_B_No704 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+core_HIFVOI_freeONLY {'Zn ', 'C ', 'H ', 'N '}
+boydwoo_str_m1_o24_o24_pcu_sym_229 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+ILUCUO_FSR {'H ', 'Sm ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o11_o29_pcu_sym_93 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o24_o27_pcu_sym_164 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o1_o18_pcu_sym_104 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-AZO_B-irmof20_B_No54 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m3_o4_o28_pcu_sym_78 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+GIXNAE_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+RIPKIM01_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+gmof_Zn4O13-irmof8_A-TED_A_No8 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o14_o29_pcu_sym_256 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m5_Al_o11_o13_sra_sym_152 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+boydwoo_str_m3_o8_o15_pcu_sym_199 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+MOF-5_cooh_2_471_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o4_o11_pcu_sym_212 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o11_o18_pcu_sym_240 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o11_o29_pcu_sym_228 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+MOF-5_cooh_2_1089_1 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_Uio66Zr-irmof10_A-irmof14_A_No41 {'H ', 'O ', 'Zr ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o11_o24_sra_sym_98 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m1_o10_o12_pcu_sym_143 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Uio66Zr-irmof10_A-irmof14_A_No151 {'Cl ', 'H ', 'O ', 'Zr ', 'C '}
+gmof_Uio66Zr-irmof10_A-irmof12_A_No2 {'H ', 'O ', 'Zr ', 'Br ', 'C '}
+gmof_AlO6-mof177-N_No10 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+gmof_Uio66Zr-irmof10_A-irmof14_A_No290 {'H ', 'O ', 'N ', 'Zr ', 'C ', 'F '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No118 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_Uio66Zr-irmof10_A-irmof14_A_No145 {'Cl ', 'H ', 'O ', 'Zr ', 'Br ', 'C '}
+EBEWOZ01_FSR {'H ', 'O ', 'C ', 'Gd '}
+gmof_Uio66Zr-irmof10_A-irmof14_A_No18 {'H ', 'O ', 'Zr ', 'Br ', 'C '}
+MOF-5_cooh_2_627_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Uio66Zr-irmof10_A-irmof14_A_No489 {'H ', 'O ', 'Zr ', 'C ', 'F '}
+gmof_Al2O6-AZO_B-TED_B_No3 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o2_o22_pcu_sym_144 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Uio66Zr-irmof10_A-irmof14_A_No19 {'H ', 'Zr ', 'C ', 'O '}
+gmof_Uio66Zr-irmof10_A-irmof14_A_No33 {'H ', 'Zr ', 'C ', 'O '}
+gmof_Uio66Zr-irmof10_A_No7 {'H ', 'O ', 'Zr ', 'C ', 'F '}
+boydwoo_str_m3_o16_o25_pcu_sym_115 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_Uio66Zr-irmof10_A_No1 {'H ', 'Zr ', 'C ', 'O '}
+boydwoo_str_m3_o4_o17_pcu_sym_146 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o19_o26_pcu_sym_115 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m1_o10_o18_pcu_sym_111 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No109 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o17_o25_pcu_sym_96 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o5_o24_pcu_sym_8 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+FEHCOM_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-BDC_A-irmof7_A_No55 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_Al2O6-ADC_B-BDC_B_No540 {'Al ', 'H ', 'O ', 'N ', 'C '}
+COSMII_FSR {'H ', 'O ', 'N ', 'C ', 'In '}
+boydwoo_str_m5_Al_o11_o11_sra_sym_15 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_AlO6-mof177-N_No11 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+gmof_Zn2O8N2-BDC_A-irmof7_A_No218 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o4_o7_pcu_sym_33 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o11_o19_pcu_sym_126 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-AZO_B-BDC_B_No79 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o13_o22_sra_sym_75 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o11_o18_pcu_sym_143 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o4_o29_pcu_sym_191 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o21_o22_pcu_sym_23 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-pcn6_A_No5 {'Al ', 'H ', 'O ', 'N ', 'C '}
+MOF-5_cooh_2_1400_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-irmof20_A-TED_A_No13 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m5_Al_o20_o24_sra_sym_59 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-irmof10_B-irmof7_B_No438 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No97 {'O ', 'N ', 'Zn ', 'S ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o11_o11_sra_sym_233 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o11_o28_pcu_sym_150 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m1_o12_o16_pcu_sym_246 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o10_pcu_sym_36 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof10_B-irmof6_B_No19 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Al2O6-irmof10_B-irmof7_B_No15 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o4_o28_pcu_sym_53 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o20_o24_sra_sym_149 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_AlO6-mof177-N_No17 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o11_o13_sra_sym_6 {'H ', 'Al ', 'C ', 'O '}
+SADLOA_FSR {'H ', 'O ', 'Nd ', 'C '}
+boydwoo_str_m5_Al_o6_o16_sra_sym_4 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Al2O6-irmof10_B-irmof7_B_No690 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-BDC_B-irmof10_B_No213 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o11_o28_pcu_sym_222 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-BDC_B-DPAC_B_No144 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o2_o11_pcu_sym_139 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m5_Al_o18_o23_sra_sym_51 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o16_o18_pcu_sym_137 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+UFAQEA_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No217 {'Cl ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Al2O6-AZO_B-irmof7_B_No210 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o19_o23_sra_sym_24 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o6_o12_pcu_sym_130 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o13_o25_pcu_sym_119 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No126 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No337 {'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+SAFZIL_FSR {'H ', 'O ', 'N ', 'C ', 'In '}
+core_RUYQOT_freeONLY {'H ', 'O ', 'N ', 'La ', 'C '}
+boydwoo_str_m3_o2_o9_pcu_sym_61 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o13_o16_pcu_sym_168 {'Cl ', 'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o1_o12_sra_sym_91 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+gmof_Al2O6-AZO_B-irmof7_B_No2 {'Al ', 'H ', 'O ', 'N ', 'C '}
+PUYHOI_FSR {'H ', 'O ', 'Gd ', 'Ni ', 'C '}
+boydwoo_str_m5_Al_o13_o13_sra_sym_37 {'H ', 'Al ', 'C ', 'O '}
+MOF-5_cooh_2_972_1 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o11_o26_pcu_sym_65 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o21_pcu_sym_121 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+KUTNEU_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+boydwoo_str_m5_Al_o1_o12_sra_sym_62 {'H ', 'Al ', 'C ', 'O '}
+gmof_Al2O6-DPAC_B-irmof7_B_No1006 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+gmof_Zn2O8N2-irmof12_A-irmof7_A_No1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-DPAC_B-irmof7_B_No318 {'Al ', 'Cl ', 'H ', 'O ', 'Br ', 'C '}
+boydwoo_str_m3_o2_o25_pcu_sym_73 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof10_B-irmof7_B_No372 {'Al ', 'H ', 'O ', 'Br ', 'C ', 'F '}
+gmof_Al2O6-ADC_B-irmof20_B_No5 {'Al ', 'Cl ', 'H ', 'O ', 'S ', 'C '}
+gmof_Al2O6-BDC_B-irmof20_B_No264 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_Al2O6-AZO_B-BDC_B_No91 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o10_o16_pcu_sym_111 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o2_o13_sra_sym_14 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o1_o3_pcu_sym_130 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m3_o11_o18_pcu_sym_16 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o10_o21_pcu_sym_23 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m1_o5_o22_pcu_sym_42 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+boydwoo_str_m3_o1_o2_pcu_sym_3 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-AZO_B-irmof7_B_No19 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+boydwoo_str_m1_o4_o24_pcu_sym_234 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn4O13-irmof14_A_No16 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o22_o24_pcu_sym_220 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o17_o19_sra_sym_7 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn4O13-irmof20_A-TED_A_No3 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m1_o10_o26_pcu_sym_181 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No573 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m1_o10_o26_pcu_sym_208 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m1_o11_o24_pcu_sym_205 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_AlO6-pcn6_B_No3 {'Al ', 'H ', 'O ', 'N ', 'C '}
+core_DICKEH_freeONLY {'H ', 'O ', 'C ', 'Cu '}
+boydwoo_str_m3_o12_o29_pcu_sym_123 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o4_o15_pcu_sym_68 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o4_o4_pcu_sym_61 {'H ', 'O ', 'I ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No45 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m3_o4_o7_pcu_sym_48 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-pcn6_A_No4 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o1_o22_pcu_sym_204 {'Zn ', 'O ', 'C ', 'H '}
+gmof_AlO6-mof177-N_No29 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+boydwoo_str_m3_o1_o13_pcu_sym_176 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-mof177-N_No16 {'Al ', 'H ', 'O ', 'N ', 'C '}
+GADMAA01_FSR {'H ', 'O ', 'Gd ', 'Zn ', 'C '}
+boydwoo_str_m1_o5_o23_pcu_sym_24 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+boydwoo_str_m3_o4_o26_pcu_sym_219 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+VOYBOC_FSR {'Zn ', 'O ', 'C ', 'H '}
+EMIYUW_FSR {'H ', 'Zr ', 'C ', 'O '}
+boydwoo_str_m3_o6_o18_pcu_sym_197 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o13_o28_pcu_sym_241 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No3 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+gmof_AlO6-pcn6_A_No3 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o4_o15_pcu_sym_202 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_MINVUA_SL {'H ', 'O ', 'C ', 'Cr '}
+IDOKOE_FSR {'H ', 'O ', 'Zn ', 'Dy ', 'C '}
+core_DARSEV_SL {'Cd ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+NIRPIQ_FSR {'H ', 'Al ', 'C ', 'O '}
+gmof_Al2O6-ADC_B-BDC_B_No398 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Al2O6-BDC_B-irmof20_B_No236 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+gmof_Al2O6-irmof10_B-irmof7_B_No656 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+gmof_Al2O6-irmof10_B-irmof7_B_No604 {'Al ', 'H ', 'O ', 'N ', 'C '}
+MIXBEC_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+AVEROJ_FSR {'Cd ', 'Cl ', 'H ', 'N ', 'C '}
+gmof_Al2O6-AZO_B-irmof7_B_No18 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o13_o28_pcu_sym_149 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m3_o3_o24_pcu_sym_42 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o20_o22_sra_sym_79 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+gmof_AlO6-mof177-N_No35 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o13_o13_pcu_sym_138 {'Zn ', 'O ', 'C ', 'H '}
+core_FEHCIG_manual {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o18_o19_pcu_sym_56 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-imd_No27 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o6_o19_sra_sym_36 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o7_o18_sra_sym_32 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o11_o27_pcu_sym_42 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof6_B_No1 {'H ', 'Al ', 'C ', 'O '}
+MOF-5_cooh_2_633_2 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof10_B-irmof7_B_No555 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn2O8N2-irmof6_A-irmof7_A_No144 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o4_o11_pcu_sym_123 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-BDC_B_No6 {'Al ', 'H ', 'O ', 'C ', 'F '}
+core_CAXWAB_freeONLY {'H ', 'O ', 'C ', 'Fe '}
+boydwoo_str_m5_Al_o16_o20_sra_sym_78 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-pcn6_B_No5 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o12_o13_pcu_sym_151 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-irmof10_A-irmof7_A_No99 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-mof177_No19 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-irmof20_A-TED_A_No8 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_Al2O6-BDC_B-DPAC_B_No272 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+core_ERULEK_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+IDOLUL_FSR {'Tb ', 'H ', 'O ', 'Zn ', 'C '}
+QAGDIO_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+IDIWOH01_FSR {'H ', 'O ', 'C ', 'V '}
+boydwoo_str_m5_Al_o13_o20_sra_sym_68 {'H ', 'Al ', 'C ', 'O '}
+GENMIY_FSR {'H ', 'Co ', 'O ', 'C '}
+FAQLER_FSR {'H ', 'O ', 'C ', 'V '}
+boydwoo_str_m3_o6_o9_pcu_sym_199 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o11_o11_pcu_sym_164 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o17_pcu_sym_39 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o11_o17_pcu_sym_28 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o1_o11_sra_sym_42 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No39 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+TAKTEH_FSR {'H ', 'O ', 'C ', 'Ga '}
+gmof_Al2O6-ADC_B-BDC_B_No365 {'H ', 'Al ', 'C ', 'O '}
+core_EGELUY_SL {'H ', 'Al ', 'C ', 'O '}
+gmof_Al2O6-DPAC_B-irmof7_B_No179 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_Al2O6-ADC_B-BDC_B_No549 {'H ', 'Al ', 'C ', 'O '}
+gmof_Al2O6-DPAC_B-irmof6_B_No4 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+core_DONNIE_freeONLY {'H ', 'O ', 'C ', 'Ga '}
+boydwoo_str_m1_o11_o22_pcu_sym_162 {'Zn ', 'O ', 'C ', 'H '}
+core_ODIMAQ_freeONLY {'H ', 'Sm ', 'O ', 'Zn ', 'C '}
+gmof_Zn2O8N2-irmof6_A-irmof7_A_No412 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof10_B-irmof20_B_No166 {'Al ', 'H ', 'O ', 'S ', 'C ', 'F '}
+pyrene_VUQLEA {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o20_o24_sra_sym_102 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o18_o20_pcu_sym_181 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+core_FAPXIG_freeONLY {'H ', 'O ', 'C ', 'V '}
+boydwoo_str_m5_Al_o11_o11_sra_sym_135 {'Al ', 'H ', 'O ', 'N ', 'C '}
+GACYAN_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o12_o19_pcu_sym_164 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o11_o13_sra_sym_48 {'H ', 'Al ', 'C ', 'O '}
+gmof_Al2O6-BDC_B-irmof10_B_No58 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o13_o19_pcu_sym_27 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_Al2O6-AZO_B-BDC_B_No265 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o14_o22_pcu_sym_82 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+boydwoo_str_m3_o4_o28_pcu_sym_260 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-BDC_B-irmof10_B_No85 {'Al ', 'Cl ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o19_o24_pcu_sym_63 {'O ', 'I ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m5_Al_o3_o6_sra_sym_117 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-AZO_B-irmof7_B_No258 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+ZEGRUB_FSR {'H ', 'O ', 'C ', 'Fe '}
+boydwoo_str_m3_o18_o19_pcu_sym_53 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+pyrene_HUDCEQ {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-NiC4_No16 {'Zn ', 'O ', 'C ', 'F '}
+boydwoo_str_m1_o11_o22_pcu_sym_191 {'H ', 'O ', 'I ', 'Zn ', 'C '}
+MOF-5_cooh_2_1996_1 {'Zn ', 'O ', 'C ', 'H '}
+core_HAFVUH_SL {'H ', 'O ', 'C ', 'Mg '}
+gmof_Zn4O13-irmof20_A-TED_A_No19 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_AlO6-pcn6_B_No7 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn2O8N2-irmof6_A-irmof7_A_No402 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+pyrene_PGHIM {'H ', 'O ', 'C ', 'Fe '}
+gmof_Al2O6-BDC_B-DPAC_B_No165 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+core_EXEQII_SL {'H ', 'O ', 'C ', 'Sc '}
+boydwoo_str_m1_o24_o25_pcu_sym_180 {'Zn ', 'O ', 'C ', 'H '}
+pyrene_GAEOG {'H ', 'Al ', 'C ', 'O '}
+BADYAJ_FSR {'Tb ', 'H ', 'O ', 'N ', 'C '}
+core_IVEHEW_manual {'H ', 'O ', 'Cu ', 'N ', 'S ', 'C '}
+boydwoo_str_m5_Al_o11_o11_sra_sym_184 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_Al2O6-BDC_B-irmof10_B_No251 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-irmof16_B-irmof20_B_No279 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+gmof_Al2O6-DPAC_B-irmof7_B_No957 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-BDC_B-DPAC_B_No283 {'Al ', 'H ', 'O ', 'N ', 'C '}
+MINCUJ_FSR {'H ', 'Tb ', 'C ', 'O '}
+gmof_AlO6-irmof6_A_No8 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-pcn6_B_No6 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-DPAC_B-irmof7_B_No936 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+gmof_Al2O6-AZO_B-BDC_B_No97 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No106 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o7_o17_sra_sym_44 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+TOYHOH_FSR {'Ti ', 'H ', 'O ', 'N ', 'C '}
+OWIHUZ_FSR {'H ', 'O ', 'C ', 'In '}
+boydwoo_str_m3_o1_o26_pcu_sym_57 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o2_o13_sra_sym_65 {'Al ', 'H ', 'O ', 'C ', 'F '}
+ZACFOB_FSR {'H ', 'O ', 'C ', 'Mg '}
+boydwoo_str_m5_Al_o2_o4_sra_sym_212 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-irmof20_A-TED_A_No4 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+boydwoo_str_m1_o1_o9_pcu_sym_123 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Al2O6-AZO_B-irmof7_B_No770 {'Al ', 'H ', 'O ', 'N ', 'C '}
+core_MEJMOE_freeONLY {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m1_o10_o26_pcu_sym_183 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-irmof6_A-irmof7_A_No399 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o4_o21_pcu_sym_261 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_EXEQAA_freeONLY {'H ', 'O ', 'C ', 'Sc '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No311 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o11_o19_pcu_sym_120 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o8_o10_pcu_sym_135 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No107 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+gmof_Zn4O13-DPAC_A-TED_A_No44 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Al2O6-DPAC_B-irmof7_B_No876 {'Al ', 'H ', 'O ', 'N ', 'Br ', 'C '}
+core_FUNFOL_freeONLY {'H ', 'Co ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o8_o16_sra_sym_13 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No115 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_Al2O6-AZO_B-irmof7_B_No220 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No116 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o3_o13_sra_sym_3 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+boydwoo_str_m3_o19_o28_pcu_sym_112 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-DPAC_A-TED_A_No43 {'Zn ', 'O ', 'C ', 'H '}
+core_PORLAL_freeONLY {'H ', 'O ', 'Gd ', 'N ', 'C '}
+gmof_Al2O6-AZO_B-BDC_B_No248 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+DUKYIT_FSR {'H ', 'Co ', 'C ', 'N '}
+MOF-5_cooh_2_992_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+SETQUF_FSR {'H ', 'O ', 'C ', 'Fe '}
+boydwoo_str_m3_o13_o16_pcu_sym_48 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_AlO6-pcn6_B_No4 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o9_o20_pcu_sym_120 {'Zn ', 'O ', 'C ', 'H '}
+BANMAG_FSR {'H ', 'Co ', 'O ', 'Nd ', 'C '}
+boydwoo_str_m1_o13_o13_pcu_sym_201 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C '}
+boydwoo_str_m3_o1_o3_pcu_sym_73 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+MOF-5_cooh_2_145_1 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No186 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-AZO_B-BDC_B_No266 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o13_o13_sra_sym_105 {'H ', 'Al ', 'C ', 'O '}
+core_ROQVIE_freeONLY {'Zn ', 'C ', 'H ', 'N '}
+gmof_AlO6-mof177_No2 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+boydwoo_str_m3_o21_o26_pcu_sym_128 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o16_o23_pcu_sym_76 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+MOF-5_cooh_2_168_2 {'Zn ', 'O ', 'C ', 'H '}
+MOF-5_cooh_2_2739_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-DPAC_B-irmof6_B_No55 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m1_o14_o22_pcu_sym_21 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No2 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+gmof_Zn2O8N2-TED-irmof6_No16 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_WIHWAN_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn2O8N2-irmof10_A-irmof7_A_No258 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m5_Al_o17_o20_sra_sym_9 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o2_o13_pcu_sym_163 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m5_Al_o6_o17_sra_sym_84 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_CuN4-SiF6-AZO_No3 {'H ', 'Cu ', 'N ', 'C ', 'Si ', 'F '}
+gmof_Zn2O8N2-irmof10_A-irmof6_A_No167 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No124 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-DPAC_B-irmof7_B_No351 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No48 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+gmof_Zn2O8N2-irmof6_A-irmof7_A_No410 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-BDC_B-irmof10_B_No73 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m5_Al_o6_o6_sra_sym_45 {'H ', 'Al ', 'C ', 'O '}
+pyrene_MUBZUG {'H ', 'Zr ', 'C ', 'O '}
+LOMFIC_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o19_o23_pcu_sym_101 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o19_o23_pcu_sym_57 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o19_o25_pcu_sym_41 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+pyrene_LURRUM {'H ', 'O ', 'C ', 'In '}
+KUTNUK_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+gmof_Al2O6-DPAC_B-irmof7_B_No1170 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn2O8N2-irmof6_A-irmof7_A_No396 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-BDC_B-DPAC_B_No60 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_Al2O6-irmof10_B-irmof6_B_No49 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+OTEGOL01_FSR {'H ', 'O ', 'C ', 'In '}
+boydwoo_str_m3_o2_o10_pcu_sym_143 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o4_o21_pcu_sym_118 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-irmof10_A-TED_A_No2 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No327 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o11_o17_pcu_sym_31 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-AZO_B-irmof7_B_No201 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'Br ', 'C '}
+gmof_Al2O6-AZO_B-irmof7_B_No202 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'Br ', 'C '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No175 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C ', 'F '}
+gmof_Al2O6-DPAC_B-irmof7_B_No629 {'Al ', 'Cl ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o6_o9_pcu_sym_232 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No591 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m1_o5_o25_pcu_sym_4 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o2_o11_pcu_sym_42 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+SIXFIQ01_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+gmof_Al2O6-AZO_B-irmof7_B_No436 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+NURZOR_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-BDC_B-irmof10_B_No137 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Al2O6-DPAC_B-irmof7_B_No1168 {'H ', 'Al ', 'C ', 'O '}
+core_QALGUH_SL {'H ', 'O ', 'C ', 'Cr '}
+core_HAFTOZ_freeONLY {'Ni ', 'C ', 'H ', 'N '}
+gmof_AlO6-mof177_No26 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+gmof_Al2O6-irmof10_B-irmof20_B_No75 {'Al ', 'H ', 'O ', 'S ', 'C '}
+boydwoo_str_m3_o4_o7_pcu_sym_139 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_SADMUH_SL {'H ', 'O ', 'C ', 'Fe '}
+MOF-5_cooh_2_930_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-mofHTB_No24 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m3_o12_o12_pcu_sym_52 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o11_o24_pcu_sym_208 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-BDC_A-irmof8_A_No135 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o24_o25_pcu_sym_47 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-mof177_No3 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+boydwoo_str_m3_o11_o27_pcu_sym_165 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m1_o10_o21_pcu_sym_128 {'Zn ', 'O ', 'C ', 'H '}
+WUCWIC_FSR {'Tb ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No173 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o13_o17_pcu_sym_239 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o17_o24_pcu_sym_168 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+KUTNOE_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No415 {'H ', 'O ', 'S ', 'Zn ', 'N ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o6_o19_sra_sym_62 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+boydwoo_str_m3_o4_o20_pcu_sym_235 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No53 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+LIQHAX_FSR {'H ', 'O ', 'N ', 'C ', 'Mg '}
+gmof_Zn4O13-irmof20_A-TED_A_No11 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No293 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C ', 'F '}
+boydwoo_str_m1_o11_o14_pcu_sym_67 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No26 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No185 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o4_o20_pcu_sym_167 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o10_o26_pcu_sym_220 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+MOF-5_cooh_2_580_1 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Al2O6-DPAC_B-irmof20_B_No105 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No531 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o6_o24_pcu_sym_33 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-AZO_B-irmof7_B_No698 {'Al ', 'H ', 'O ', 'N ', 'Br ', 'C '}
+gmof_Al2O6-irmof10_B-irmof6_B_No9 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No193 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-AZO_B-irmof7_B_No726 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o1_o27_pcu_sym_127 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Al2O6-DPAC_B-irmof7_B_No697 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+boydwoo_str_m3_o4_o7_pcu_sym_112 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m1_o10_o12_pcu_sym_233 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o4_o6_pcu_sym_149 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+MOF-5_cooh_2_572_2 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o1_o11_pcu_sym_86 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o18_o25_sra_sym_27 {'Al ', 'H ', 'O ', 'I ', 'C '}
+boydwoo_str_m1_o10_o21_pcu_sym_184 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o25_o25_sra_sym_2 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o11_o19_sra_sym_45 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o21_o28_pcu_sym_176 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No31 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+gmof_Al2O6-BDC_B-DPAC_B_No97 {'Al ', 'Cl ', 'H ', 'O ', 'C ', 'F '}
+pyrene_NCVDL {'H ', 'Ti ', 'O ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No291 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C ', 'F '}
+ZASJAG_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-AZO_B-BDC_B_No176 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+gmof_Uio66Zr-DPAC_A_No41 {'H ', 'Zr ', 'C ', 'O '}
+gmof_AlO6-mof177_No5 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m5_Al_o4_o20_sra_sym_51 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m5_Al_o18_o23_sra_sym_1 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o14_o27_pcu_sym_50 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof10_B-irmof20_B_No51 {'Al ', 'H ', 'O ', 'S ', 'C '}
+boydwoo_str_m1_o12_o18_pcu_sym_20 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o19_o21_pcu_sym_3 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+KIGCEK_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o4_o7_pcu_sym_212 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o1_o11_pcu_sym_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o1_o26_pcu_sym_110 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o24_pcu_sym_165 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-mof177_No28 {'H ', 'Al ', 'C ', 'O '}
+gmof_Al2O6-BDC_B-DPAC_B_No219 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+gmof_Zn4O13-DPAC_A-TED_A_No47 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_Al2O6-DPAC_B-irmof6_B_No34 {'Al ', 'Cl ', 'H ', 'O ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No248 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+boydwoo_str_m3_o4_o6_pcu_sym_264 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-mof177_No4 {'H ', 'Al ', 'C ', 'O '}
+BEPPIX_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o4_o25_pcu_sym_243 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-AZO_B-irmof7_B_No581 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o4_o19_pcu_sym_221 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-irmof6_A_No15 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-DPAC_B-irmof7_B_No610 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No226 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_Al2O6-DPAC_B-irmof7_B_No29 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No184 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m1_o10_o26_pcu_sym_17 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o18_pcu_sym_255 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o6_o19_sra_sym_29 {'Al ', 'H ', 'O ', 'N ', 'Br ', 'C '}
+boydwoo_str_m1_o9_o20_pcu_sym_118 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+gmof_Zn2O8N2-BDC_A-irmof6_A_No273 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o4_o27_pcu_sym_183 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o20_o24_sra_sym_71 {'Al ', 'H ', 'O ', 'N ', 'C '}
+FIZXIY_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o11_o15_pcu_sym_231 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+core_ATOWIQ_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-DPAC_B-irmof7_B_No709 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Al2O6-DPAC_B-irmof7_B_No16 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o4_o21_pcu_sym_95 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-BDC_A-irmof14_A_No117 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o1_o8_pcu_sym_121 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-BDC_B-DPAC_B_No265 {'H ', 'Al ', 'C ', 'O '}
+gmof_Al2O6-DPAC_B-irmof7_B_No1270 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o6_o9_pcu_sym_215 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+FIZXOE_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+boydwoo_str_m3_o17_o25_pcu_sym_242 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o3_o3_sra_sym_123 {'H ', 'Al ', 'C ', 'O '}
+gmof_Al2O6-DPAC_B-irmof7_B_No594 {'Al ', 'H ', 'O ', 'Br ', 'C ', 'F '}
+boydwoo_str_m5_Al_o3_o18_sra_sym_31 {'H ', 'Al ', 'C ', 'O '}
+gmof_Al2O6-AZO_B-TED_B_No1 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-AZO_B-irmof7_B_No569 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+gmof_AlO6-pcn6_B_No17 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o1_o11_pcu_sym_21 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+ZIQWUU_FSR {'Sr ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o20_o22_sra_sym_125 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m1_o14_o24_pcu_sym_90 {'H ', 'O ', 'I ', 'Zn ', 'C '}
+boydwoo_str_m1_o18_o26_pcu_sym_217 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Al2O6-DPAC_B-irmof7_B_No6 {'Al ', 'H ', 'O ', 'C ', 'F '}
+core_XAJQAC_SL {'H ', 'O ', 'C ', 'In '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No192 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o22_o27_pcu_sym_39 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof10_B-irmof6_B_No63 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Zn2O8N2-BDC_A-irmof6_A_No380 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m3_o4_o27_pcu_sym_92 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o13_o14_pcu_sym_166 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o1_o20_pcu_sym_40 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-irmof12_B-irmof20_B_No4 {'Al ', 'Cl ', 'H ', 'O ', 'S ', 'C '}
+gmof_Zn2O8N2-irmof6_A-irmof8_A_No179 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C ', 'F '}
+boydwoo_str_m3_o22_o27_pcu_sym_131 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Uio66Zr-DPAC_A_No23 {'H ', 'O ', 'Zr ', 'C ', 'F '}
+gmof_Al2O6-BDC_B-DPAC_B_No259 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o4_o19_pcu_sym_183 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o1_o7_pcu_sym_164 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m5_Al_o3_o25_sra_sym_79 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+gmof_Zn2O8N2-irmof14_A-irmof7_A_No368 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o20_o22_sra_sym_36 {'Al ', 'H ', 'O ', 'I ', 'N ', 'C '}
+boydwoo_str_m1_o1_o22_pcu_sym_198 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o1_o20_sra_sym_22 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o4_o20_pcu_sym_82 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No214 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Zn2O8N2-BDC_A-irmof6_A_No237 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o2_o12_pcu_sym_112 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-DPAC_B-irmof6_B_No13 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Al2O6-BDC_B-DPAC_B_No216 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+boydwoo_str_m3_o4_o6_pcu_sym_46 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-BDC_A-DPAC_A_No49 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Uio66Zr-DPAC_A-NiC4_No23 {'H ', 'O ', 'Zr ', 'C ', 'F '}
+gmof_Al2O6-DPAC_B-irmof20_B_No135 {'Al ', 'Cl ', 'H ', 'O ', 'S ', 'C '}
+boydwoo_str_m5_Al_o11_o19_sra_sym_132 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o8_o16_sra_sym_23 {'Al ', 'H ', 'O ', 'N ', 'C '}
+core_KAVNIH_freeONLY {'H ', 'Co ', 'O ', 'N ', 'C '}
+core_XEXLAP_freeONLY {'H ', 'O ', 'N ', 'C ', 'Mn '}
+gmof_Al2O6-BDC_B-DPAC_B_No248 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+gmof_Zn4O13-DPAC_A-TED_A_No13 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o10_pcu_sym_178 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+MOF-5_cooh_2_42_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o8_o24_pcu_sym_103 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o23_pcu_sym_190 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-irmof6_A-irmof8_A_No86 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o4_o21_pcu_sym_257 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o4_o13_pcu_sym_238 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+COJMOF01_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o7_o11_pcu_sym_233 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o4_o20_sra_sym_2 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o6_o9_pcu_sym_113 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-AZO_B-irmof7_B_No699 {'Al ', 'H ', 'O ', 'N ', 'Br ', 'C '}
+boydwoo_str_m3_o1_o7_pcu_sym_93 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o11_o21_pcu_sym_148 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-BDC_A-DPAC_A_No358 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-DPAC_B-irmof7_B_No970 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o21_o23_pcu_sym_129 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C ', 'F '}
+gmof_Al2O6-AZO_B-BDC_B_No338 {'Al ', 'H ', 'O ', 'N ', 'C '}
+MAQMAV_FSR {'Cd ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-mof177_No41 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-mof177_No6 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o11_o20_pcu_sym_99 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof16_B-irmof20_B_No90 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_Zn2O8N2-BDC_A-DPAC_A_No585 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn2O8N2-BDC_A-DPAC_A_No542 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o6_o9_pcu_sym_164 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-AZO_B-BDC_B_No12 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+boydwoo_str_m3_o4_o21_pcu_sym_109 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-BDC_B-DPAC_B_No156 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_AlO6-mof177_No7 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+boydwoo_str_m5_Al_o16_o26_sra_sym_69 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+boydwoo_str_m5_Al_o11_o19_sra_sym_28 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-DPAC_A-TED_A_No31 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-BDC_A-DPAC_A_No830 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o16_o29_pcu_sym_101 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_NAYZUK_SL {'H ', 'O ', 'C ', 'In '}
+gmof_Zn2O8N2-BDC_A-irmof10_A_No231 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o4_o27_pcu_sym_157 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No243 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C '}
+boydwoo_str_m1_o13_o26_pcu_sym_127 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-irmof6_A-irmof8_A_No22 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-DPAC_A-TED_A_No41 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Al2O6-BDC_B-DPAC_B_No164 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+boydwoo_str_m3_o20_o22_pcu_sym_82 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o1_o4_pcu_sym_50 {'Zn ', 'O ', 'C ', 'H '}
+MOF-5_cooh_2_1314_1 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_AlO6-mof177-N_No1 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn2O8N2-BDC_A-DPAC_A_No635 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-irmof20_A-irmof6_A_No31 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o2_o17_pcu_sym_71 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m1_o13_o18_pcu_sym_253 {'Zn ', 'O ', 'C ', 'H '}
+gmof_AlO6-mof177_No31 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+boydwoo_str_m5_Al_o11_o19_sra_sym_75 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o4_o20_sra_sym_3 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn2O8N2-irmof6_A-irmof8_A_No210 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-DPAC_B-irmof6_B_No57 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o2_o8_pcu_sym_118 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o12_o18_pcu_sym_264 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn4O13-BDC_A-irmof20_A_No36 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_Zn2O8N2-irmof10_A-irmof6_A_No487 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-irmof10_A-irmof6_A_No30 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o18_o18_pcu_sym_91 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No483 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m3_o2_o14_pcu_sym_151 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o18_o18_pcu_sym_261 {'H ', 'O ', 'I ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m1_o14_o15_pcu_sym_162 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o15_pcu_sym_131 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No574 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Zn2O8N2-irmof10_A-irmof7_A_No520 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o12_pcu_sym_19 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o1_o20_sra_sym_42 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o11_o20_pcu_sym_229 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+tobacco_SR_flt_v1-3c_triazine_Ch_v2-8c_Hf_1_Ch_1DoU_Ch_1TrU_Ch_2x2x1 {'H ', 'O ', 'N ', 'C ', 'Hf '}
+gmof_Zn4O13-BDC_A-irmof20_A_No305 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+gmof_AlO6-mofHTB_No18 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o20_o25_sra_sym_36 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No224 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o11_o20_sra_sym_54 {'H ', 'Al ', 'C ', 'O '}
+core_BIBXOB_freeONLY {'H ', 'O ', 'N ', 'Ni ', 'C '}
+gmof_AlO6-irmof6_A_No14 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o11_o14_pcu_sym_137 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_AlO6-pcn6_B_No13 {'Al ', 'H ', 'O ', 'N ', 'C '}
+core_NEXVET_freeONLY {'Ni ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o2_o10_pcu_sym_9 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No63 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+gmof_AlO6-mof177_No8 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No346 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+MOF-5_cooh_2_16_4 {'Zn ', 'O ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No605 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C '}
+boydwoo_str_m1_o12_o18_pcu_sym_123 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+MOF-5_cooh_2_217_2 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_ZnN4-SiF6-DPAC_No18 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No35 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o13_o27_sra_sym_30 {'Al ', 'H ', 'O ', 'N ', 'C '}
+tobacco_SR_flt_v1-3c_triazine_Ch_v2-8c_Zr_1_Ch_1DoU_Ch_1TrU_Ch_2x2x1 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+APUVIS_FSR {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+MOF-5_cooh_2_2860_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_TAQGEZ_freeONLY {'Cd ', 'Cl ', 'H ', 'N ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No334 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+boydwoo_str_m3_o12_o17_pcu_sym_72 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o11_pcu_sym_119 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No212 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m1_o1_o3_pcu_sym_92 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+KARMAT_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+gmof_Al2O6-irmof16_B-irmof20_B_No193 {'Al ', 'H ', 'O ', 'S ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No332 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+boydwoo_str_m3_o2_o12_pcu_sym_152 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o11_o20_sra_sym_139 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m1_o16_o18_pcu_sym_212 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o11_o20_sra_sym_133 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+boydwoo_str_m1_o5_o24_pcu_sym_24 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o11_o20_sra_sym_26 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+OTECEX_FSR {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn4O13-BDC_A-irmof20_A_No572 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m1_o1_o27_pcu_sym_38 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o23_o25_pcu_sym_8 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+MOF-5_cooh_2_239_2 {'Zn ', 'O ', 'C ', 'H '}
+MOF-5_cooh_2_2738_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o22_pcu_sym_108 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+MIBQAR01_FSR {'Zn ', 'O ', 'C ', 'H '}
+NOPCIH_FSR {'H ', 'Ti ', 'O ', 'C '}
+boydwoo_str_m3_o7_o9_pcu_sym_256 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o2_o3_sra_sym_112 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+SERKAC_FSR {'H ', 'O ', 'N ', 'C ', 'Er '}
+gmof_AlO6-irmof6_A_No2 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+boydwoo_str_m1_o1_o11_pcu_sym_211 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+MOF-5_cooh_2_993_2 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+MOF-5_cooh_2_251_3 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o4_o20_sra_sym_141 {'Al ', 'Cl ', 'H ', 'O ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No590 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m1_o14_o19_pcu_sym_88 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No172 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+tobacco_SR_rtl_v1-3c_pyrrole_Ch_v2-6c_Hf_1_Ch_1TrU_Ch_2x2x2 {'H ', 'O ', 'N ', 'C ', 'Hf '}
+gmof_Al2O6-irmof16_B-irmof20_B_No344 {'Al ', 'Cl ', 'H ', 'O ', 'S ', 'C '}
+boydwoo_str_m1_o1_o22_pcu_sym_203 {'H ', 'O ', 'I ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No232 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+MOYYIJ_FSR {'H ', 'O ', 'C ', 'Cu '}
+gmof_Al2O6-irmof16_B-irmof20_B_No367 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No272 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m1_o12_o12_pcu_sym_174 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No292 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C ', 'F '}
+boydwoo_str_m1_o1_o17_pcu_sym_70 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+DIDDOK_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No472 {'H ', 'O ', 'S ', 'Zn ', 'N ', 'Br ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No170 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No530 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No30 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+KUTNIY_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No327 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No207 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No209 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No87 {'H ', 'O ', 'S ', 'Zn ', 'N ', 'Br ', 'C '}
+boydwoo_str_m3_o7_o22_pcu_sym_130 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-irmof8_A-pmof1_A_No23 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m3_o25_o26_pcu_sym_66 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+QUDDAX_FSR {'H ', 'O ', 'N ', 'C ', 'Mg '}
+boydwoo_str_m5_Al_o6_o19_sra_sym_56 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m5_Al_o16_o26_sra_sym_45 {'Al ', 'H ', 'O ', 'I ', 'Br ', 'C '}
+boydwoo_str_m3_o21_o28_pcu_sym_9 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o6_o25_sra_sym_98 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m1_o12_o21_pcu_sym_2 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+core_HOZFEJ_freeONLY {'H ', 'O ', 'Li ', 'N ', 'C '}
+gmof_AlO6-pcn6_A_No7 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o13_o27_pcu_sym_81 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+SOHGUS_FSR {'H ', 'Co ', 'C ', 'N '}
+gmof_AlO6-irmof6_A_No3 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+boydwoo_str_m3_o17_o29_pcu_sym_112 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+QUPZIM01_FSR {'H ', 'C ', 'Fe ', 'N '}
+boydwoo_str_m5_Al_o8_o16_sra_sym_54 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-irmof10_B-irmof20_B_No268 {'Al ', 'Cl ', 'H ', 'O ', 'S ', 'C '}
+XALMOO_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+TIXKUI_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o16_o29_pcu_sym_227 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o23_o27_pcu_sym_281 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-irmof10_B-irmof20_B_No20 {'Al ', 'H ', 'O ', 'S ', 'C '}
+boydwoo_str_m1_o11_o15_pcu_sym_102 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m1_o18_o18_pcu_sym_253 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o6_o19_sra_sym_21 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-mofHTB_No19 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o2_o23_pcu_sym_32 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o21_o25_pcu_sym_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o13_o27_sra_sym_16 {'Al ', 'H ', 'O ', 'N ', 'Br ', 'C '}
+boydwoo_str_m3_o21_o26_pcu_sym_84 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o25_o25_pcu_sym_101 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o14_pcu_sym_196 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o11_o15_pcu_sym_214 {'Zn ', 'O ', 'C ', 'H '}
+gmof_CuN4-SiF6-ADC_No11 {'H ', 'O ', 'Cu ', 'N ', 'C ', 'Si ', 'F '}
+gmof_AlO6-mof177_No9 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_AlO6-mof177_No25 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+boydwoo_str_m3_o2_o17_pcu_sym_195 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o6_pcu_sym_177 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o13_o26_pcu_sym_145 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+QUQBAH_FSR {'H ', 'C ', 'Fe ', 'N '}
+gmof_AlO6-pcn6_B_No12 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-mof177_No32 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+boydwoo_str_m3_o23_o26_pcu_sym_181 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+MOYMET_FSR {'H ', 'Co ', 'O ', 'C '}
+MOF-5_cooh_2_683_1 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No242 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o11_pcu_sym_158 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-irmof6_A_No9 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m1_o14_o27_pcu_sym_101 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o23_o27_pcu_sym_204 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o16_o28_pcu_sym_35 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m5_Al_o3_o18_sra_sym_26 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No182 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_Zn2O8N2-ADC_A-BDC_A_No817 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-pcn6_B_No9 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+boydwoo_str_m5_Al_o7_o18_sra_sym_16 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn4O13-BDC_A-irmof20_A_No484 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m3_o2_o8_pcu_sym_211 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-DPAC_A-TED_A_No19 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o17_o20_sra_sym_24 {'Al ', 'H ', 'O ', 'I ', 'C '}
+gmof_AlO6-PEDOT_A_No1 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_AlO6-pcn6_B_No8 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+boydwoo_str_m3_o13_o29_pcu_sym_33 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No542 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C '}
+boydwoo_str_m1_o11_o24_pcu_sym_37 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-AZO_B-irmof20_B_No65 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m5_Al_o21_o26_sra_sym_106 {'Al ', 'H ', 'O ', 'I ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No546 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C '}
+core_VACFUB01_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_IYUCIQ_freeONLY {'H ', 'O ', 'N ', 'Dy ', 'C '}
+GASROK_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+SERCEZ_FSR {'Zn ', 'O ', 'C ', 'H '}
+gmof_Al2O6-AZO_B-irmof20_B_No60 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No604 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o6_o19_sra_sym_25 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m5_Al_o7_o20_sra_sym_55 {'Al ', 'H ', 'O ', 'I ', 'C ', 'F '}
+gmof_ZnN4-SiF6-ADC_No11 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No236 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o8_o16_sra_sym_98 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o25_o27_pcu_sym_71 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o23_o26_pcu_sym_20 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+tobacco_SR_flt_v1-3c_triazine_Ch_v2-8c_Hf_1_Ch_1TrU_Ch_2x2x1 {'H ', 'O ', 'N ', 'C ', 'Hf '}
+gmof_Zn2O8N2-AZO_A-irmof7_A_No517 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o20_o25_sra_sym_138 {'Al ', 'Cl ', 'H ', 'O ', 'S ', 'C '}
+gmof_Zn4O13-DPAC_A-TED_A_No37 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o13_o28_pcu_sym_76 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No58 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o3_o6_sra_sym_152 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m5_Al_o7_o13_sra_sym_84 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn4O13-BDC_A-irmof20_A_No538 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No298 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-DPAC_A-TED_A_No32 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o16_pcu_sym_251 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No176 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No32 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_CuN4-SiF6-DPAC_No21 {'H ', 'O ', 'Cu ', 'S ', 'N ', 'C ', 'Si ', 'F '}
+boydwoo_str_m1_o11_o24_pcu_sym_197 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn4O13-DPAC_A-TED_A_No40 {'Zn ', 'O ', 'C ', 'H '}
+tobacco_SR_flt_v1-3c_triazine_Ch_v2-8c_Zr_1_Ch_1TrU_Ch_2x2x1 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No296 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m5_Al_o7_o20_sra_sym_63 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o7_o22_pcu_sym_233 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-DPAC_A-TED_A_No22 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+BUVYIB_FSR {'H ', 'C ', 'Fe ', 'N '}
+gmof_AlO6-mofHTB_No10 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-irmof6_A_No4 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o13_o19_pcu_sym_87 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No461 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No158 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_AlO6-irmof6_A_No6 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_Al2O6-ADC_B-irmof20_B_No146 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+gmof_AlO6-mofHTB_No20 {'Al ', 'C ', 'O ', 'N '}
+gmof_Zn4O13-DPAC_A-TED_A_No2 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No91 {'H ', 'O ', 'S ', 'Zn ', 'N ', 'Br ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No521 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No341 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+REBLES_FSR {'H ', 'Co ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No219 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_AlO6-mofHTB_No11 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o23_o23_sra_sym_5 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-irmof6_A_No17 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn4O13-BDC_A-irmof20_A_No101 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No639 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o21_pcu_sym_10 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No581 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_AlO6-mof177_No40 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-mof177_No30 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_Zn2O8N2-AZO_A-irmof7_A_No182 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_Zn4O13-DPAC_A-TED_A_No12 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+boydwoo_str_m3_o17_o28_pcu_sym_149 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o8_o19_pcu_sym_110 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o7_o18_sra_sym_112 {'Al ', 'H ', 'O ', 'C ', 'F '}
+WOBHEB_FSR {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o18_o26_pcu_sym_187 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o11_o25_pcu_sym_123 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+gmof_AlO6-irmof6_A_No5 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m1_o13_o18_pcu_sym_119 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o6_o22_pcu_sym_190 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o6_o16_pcu_sym_121 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No448 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No328 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No42 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_AlO6-irmof6_A_No7 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+boydwoo_str_m3_o19_o21_pcu_sym_18 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No326 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No206 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+UFAQOK_FSR {'Cd ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+SARSUC_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+boydwoo_str_m3_o8_o14_pcu_sym_178 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m1_o11_o15_pcu_sym_16 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o6_o27_sra_sym_73 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+gmof_Al2O6-DPAC_B-irmof20_B_No325 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m5_Al_o7_o18_sra_sym_64 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o6_o11_pcu_sym_35 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_FUNCAT_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-irmof6_A_No12 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-DPAC_A-TED_A_No7 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn2O8N2-AZO_A-irmof7_A_No510 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-irmof6_A_No1 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn2O8N2-AZO_A-irmof7_A_No470 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No506 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m3_o8_o11_pcu_sym_150 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-irmof14_A-irmof8_A_No19 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+UFOQEO_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-irmof6_A_No10 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_AlO6-irmof6_A_No13 {'Al ', 'H ', 'O ', 'N ', 'C '}
+NAVJAW_FSR {'H ', 'Co ', 'O ', 'C '}
+gmof_ZnN4-SiF6-DPAC_No24 {'H ', 'O ', 'S ', 'Zn ', 'N ', 'C ', 'Si ', 'F '}
+boydwoo_str_m5_Al_o6_o17_sra_sym_20 {'H ', 'Al ', 'C ', 'O '}
+tobacco_SR_rtl_v1-3c_pyrrole_Ch_v2-6c_Zr_1_Ch_1TrU_Ch_2x2x2 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+gmof_AlO6-irmof6_A_No11 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Al2O6-DPAC_B-irmof20_B_No9 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+gmof_Zn2O8N2-irmof14_A-irmof20_A_No75 {'H ', 'O ', 'S ', 'Zn ', 'N ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o18_o28_sra_sym_64 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No338 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No46 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No340 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+gmof_AlO6-mof177_No16 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No578 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No278 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+boydwoo_str_m3_o8_o12_pcu_sym_225 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No90 {'H ', 'O ', 'S ', 'Zn ', 'N ', 'Br ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No520 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m1_o11_o11_pcu_sym_31 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+core_VOLQOD_freeONLY {'Zn ', 'O ', 'C ', 'H '}
+gmof_AlO6-mof177_No15 {'Al ', 'H ', 'O ', 'N ', 'C '}
+XESKAJ_FSR {'H ', 'O ', 'N ', 'P ', 'C ', 'Mg '}
+gmof_Zn4O13-BDC_A-irmof20_A_No518 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m3_o13_o20_pcu_sym_162 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Uio66Zr-DPAC_A_No10 {'Cl ', 'H ', 'O ', 'Zr ', 'C '}
+boydwoo_str_m5_Al_o8_o8_sra_sym_71 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+boydwoo_str_m5_Al_o8_o26_sra_sym_165 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+boydwoo_str_m5_Al_o20_o25_sra_sym_95 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o7_o15_pcu_sym_30 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o26_pcu_sym_252 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o4_o28_pcu_sym_101 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+OQETEK_FSR {'H ', 'Yb ', 'O ', 'C '}
+boydwoo_str_m3_o18_o23_pcu_sym_73 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+CUFYUZ_FSR {'H ', 'U ', 'O ', 'C '}
+boydwoo_str_m5_Al_o25_o27_sra_sym_111 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-irmof6_A_No16 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m1_o12_o21_pcu_sym_205 {'H ', 'O ', 'I ', 'Zn ', 'C '}
+gmof_AlO6-mof177_No39 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-irmof10_B-irmof20_B_No233 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m1_o12_o26_pcu_sym_19 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-pcn6_B_No15 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o17_o20_sra_sym_52 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No136 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+gmof_Zn2O8N2-AZO_A-irmof7_A_No168 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+MICKAN_FSR {'H ', 'O ', 'N ', 'La ', 'S ', 'C '}
+boydwoo_str_m1_o1_o5_pcu_sym_3 {'Zn ', 'O ', 'C ', 'F '}
+gmof_Al2O6-DPAC_B-irmof20_B_No3 {'Al ', 'H ', 'O ', 'S ', 'C '}
+boydwoo_str_m3_o23_o26_pcu_sym_87 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o23_o25_pcu_sym_234 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+tobacco_SR_scu_v1-8c_Hf_1_Ch_v2-4c_B_Ch_1B_4Br_Ch_2x2x2 {'H ', 'O ', 'Br ', 'C ', 'Hf '}
+boydwoo_str_m3_o7_o20_pcu_sym_90 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o18_o21_pcu_sym_76 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_EXEXAH_freeONLY {'H ', 'Co ', 'C ', 'N '}
+gmof_Al2O6-DPAC_B-irmof20_B_No162 {'Al ', 'Cl ', 'H ', 'O ', 'S ', 'C '}
+boydwoo_str_m3_o13_o27_pcu_sym_206 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-AZO_A-irmof8_A_No62 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C ', 'F '}
+boydwoo_str_m1_o11_o15_pcu_sym_59 {'Zn ', 'O ', 'C ', 'H '}
+FUNBEW_FSR {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o21_o28_pcu_sym_86 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-AZO_A-BDC_A_No92 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o2_o6_sra_sym_24 {'H ', 'Al ', 'C ', 'O '}
+gmof_Al2O6-DPAC_B-irmof20_B_No112 {'Al ', 'H ', 'O ', 'S ', 'C '}
+tobacco_SR_scu_v1-8c_Zr_1_Ch_v2-4c_B_Ch_1B_4Br_Ch_2x2x2 {'H ', 'O ', 'Zr ', 'Br ', 'C '}
+gmof_Zn2O8N2-irmof14_A-irmof8_A_No153 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o20_o25_sra_sym_65 {'Al ', 'H ', 'O ', 'I ', 'C '}
+MOF-5_cooh_2_129_2 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m1_o8_o10_pcu_sym_78 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m1_o12_o21_pcu_sym_131 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o8_o16_sra_sym_4 {'Al ', 'H ', 'O ', 'N ', 'C '}
+tobacco_SR_scu_v1-8c_Hf_1_Ch_v2-4c_B_Ch_1B_4CN_Ch_2x2x2 {'H ', 'O ', 'N ', 'C ', 'Hf '}
+boydwoo_str_m3_o13_o13_pcu_sym_40 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o3_o6_sra_sym_33 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn4O13-BDC_A-irmof20_A_No437 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+boydwoo_str_m5_Al_o18_o28_sra_sym_87 {'Al ', 'H ', 'O ', 'N ', 'Br ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No439 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+boydwoo_str_m1_o12_o16_pcu_sym_132 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o2_o29_pcu_sym_110 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+tobacco_SR_scu_v1-8c_Zr_1_Ch_v2-4c_B_Ch_1B_4CN_Ch_2x2x2 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+boydwoo_str_m3_o16_o26_pcu_sym_70 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No134 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m1_o13_o18_pcu_sym_63 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn4O13-BDC_A-irmof20_A_No617 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o17_o20_pcu_sym_170 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m3_o8_o10_pcu_sym_60 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o6_o23_pcu_sym_41 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+YOLKUH01_FSR {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+boydwoo_str_m5_Al_o8_o21_sra_sym_26 {'Al ', 'H ', 'O ', 'I ', 'N ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No197 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No615 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m5_Al_o7_o23_sra_sym_90 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn2O8N2-irmof14_A-irmof20_A_No5 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No495 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No317 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No557 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m1_o19_o22_pcu_sym_49 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn4O13-BDC_A-irmof20_A_No555 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No319 {'O ', 'S ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o3_o8_pcu_sym_96 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o13_o27_pcu_sym_88 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o3_o13_sra_sym_1 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m1_o18_o18_pcu_sym_70 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o6_o23_pcu_sym_3 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o3_o13_sra_sym_52 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn2O8N2-AZO_A-irmof20_A_No202 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m5_Al_o3_o13_sra_sym_210 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+gmof_Al2O6-ADC_B-irmof20_B_No336 {'Al ', 'H ', 'O ', 'S ', 'C ', 'F '}
+gmof_AlO6-mofHTB_No17 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-mof177_No22 {'H ', 'Al ', 'C ', 'O '}
+AKAYIV_FSR {'H ', 'O ', 'Cu ', 'N ', 'Br ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No494 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+boydwoo_str_m5_Al_o23_o27_sra_sym_31 {'Al ', 'H ', 'O ', 'I ', 'N ', 'C '}
+gmof_Al2O6-AZO_B-irmof8_B_No3 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o6_o9_pcu_sym_108 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o11_pcu_sym_129 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+NAHNES_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No556 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No498 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No194 {'Cl ', 'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No554 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+gmof_Zn2O8N2-irmof20_A-irmof7_A_No26 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No6 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_AlO6-mof177_No38 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o16_o18_pcu_sym_216 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-AZO_A-irmof8_A_No175 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+BADXUC_FSR {'Tb ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No616 {'H ', 'O ', 'S ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-DPAC_B-irmof20_B_No264 {'Al ', 'H ', 'O ', 'S ', 'C ', 'F '}
+gmof_Al2O6-AZO_B-irmof20_B_No210 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C ', 'F '}
+boydwoo_str_m5_Al_o16_o27_sra_sym_16 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o20_o23_sra_sym_101 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o3_o18_sra_sym_84 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+core_CURYOE01_freeONLY {'Cd ', 'Cl ', 'H ', 'N ', 'C '}
+gmof_ZnN4-SiF6-AZO_No2 {'H ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+boydwoo_str_m3_o2_o17_pcu_sym_188 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m3_o8_o22_pcu_sym_270 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-AZO_B-irmof20_B_No197 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+gmof_Al2O6-DPAC_B-irmof20_B_No233 {'Al ', 'Cl ', 'H ', 'O ', 'S ', 'C ', 'F '}
+gmof_AlO6-mof177_No36 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m5_Al_o6_o27_sra_sym_121 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m3_o20_o22_pcu_sym_118 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o12_o13_pcu_sym_189 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o8_o22_pcu_sym_26 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o7_o23_sra_sym_45 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o20_o25_sra_sym_118 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o12_o21_pcu_sym_81 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o2_o13_sra_sym_55 {'H ', 'Al ', 'C ', 'O '}
+gmof_Al2O6-irmof10_B-irmof14_B_No4 {'Al ', 'H ', 'O ', 'C ', 'F '}
+SARTAJ_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+QULMIU_FSR {'H ', 'O ', 'N ', 'C ', 'In '}
+gmof_AlO6-mof177_No12 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o2_o26_pcu_sym_196 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-ADC_A-irmof8_A_No50 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_Al2O6-DPAC_B-irmof8_B_No4 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+boydwoo_str_m3_o3_o25_pcu_sym_115 {'H ', 'O ', 'S ', 'Zn ', 'N ', 'Br ', 'C '}
+gmof_AlO6-mofHTB_No4 {'Al ', 'H ', 'O ', 'N ', 'C '}
+JOJKOK_FSR {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+tobacco_SR_bcu_v1-8c_Hf_1_Ch_2B_4H_Ch_2x2x2 {'H ', 'O ', 'C ', 'Hf '}
+MOF-5_cooh_2_861_1 {'Zn ', 'O ', 'C ', 'H '}
+gmof_AlO6-mof177_No43 {'H ', 'Al ', 'C ', 'O '}
+tobacco_SR_bcu_v1-8c_Zr_1_Ch_2B_4H_Ch_2x2x2 {'H ', 'Zr ', 'C ', 'O '}
+gmof_Zn2O8N2-irmof16_A-irmof20_A_No236 {'Cl ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+boydwoo_str_m3_o21_o27_pcu_sym_29 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-AZO_B-irmof20_B_No263 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m5_Al_o6_o17_sra_sym_71 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+gmof_Zn2O8N2-AZO_A-irmof7_A_No381 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+boydwoo_str_m3_o8_o8_pcu_sym_193 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o7_o12_pcu_sym_265 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-mof177_No13 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o2_o26_pcu_sym_4 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o21_o29_pcu_sym_131 {'Cl ', 'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o3_o13_sra_sym_32 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m1_o16_o26_pcu_sym_221 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_AlO6-mof177_No14 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Zn2O8N2-irmof20_A-irmof6_A_No253 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No21 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No19 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m5_Al_o6_o23_sra_sym_111 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-mof177_No21 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o7_o18_pcu_sym_176 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o6_o29_pcu_sym_173 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-DPAC_B-irmof20_B_No13 {'Al ', 'H ', 'O ', 'S ', 'C '}
+boydwoo_str_m3_o2_o25_pcu_sym_8 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-mofHTB_No3 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-DPAC_B-irmof20_B_No352 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No25 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No2 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+core_COJHIT_freeONLY {'H ', 'Co ', 'C ', 'N '}
+gmof_Zn4O13-BDC_A-irmof20_A_No26 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No27 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_Zn2O8N2-ADC_A-irmof20_A_No203 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m3_o7_o10_pcu_sym_201 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No1 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_Al2O6-DPAC_B-irmof20_B_No253 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-irmof20_A_No29 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_Zn2O8N2-ADC_A-irmof7_A_No1057 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-irmof20_A_No4 {'H ', 'O ', 'S ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o17_o26_pcu_sym_190 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-irmof20_A-irmof6_A_No97 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+core_VEBHUG_SL {'H ', 'O ', 'S ', 'Zn ', 'C '}
+gmof_AlO6-mof177_No37 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o7_o10_pcu_sym_233 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-irmof20_A-irmof6_A_No310 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Zn2O8N2-irmof20_A-irmof8_A_No28 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_AlO6-mof177_No20 {'H ', 'Al ', 'C ', 'O '}
+gmof_Al2O6-AZO_B-irmof20_B_No8 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+gmof_Al2O6-AZO_B-irmof20_B_No10 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m3_o8_o14_pcu_sym_134 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-DPAC_B-irmof20_B_No342 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C ', 'F '}
+gmof_Zn2O8N2-irmof10_A-irmof20_A_No157 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Zn2O8N2-irmof20_A-irmof8_A_No125 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+QUQBEL_FSR {'H ', 'C ', 'Fe ', 'N '}
+gmof_Zn2O8N2-ADC_A-TED_A_No26 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-DPAC_B-irmof8_B_No7 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Zn2O8N2-AZO_A-BDC_A_No57 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o7_o25_sra_sym_3 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Zn2O8N2-irmof14_A-irmof20_A_No365 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m3_o2_o6_pcu_sym_49 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o16_o26_pcu_sym_189 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-ADC_A-irmof7_A_No1040 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_Zn2O8N2-AZO_A-irmof10_A_No51 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_Zn2O8N2-ADC_A-irmof7_A_No379 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+BEPLUF_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-AZO_B-irmof20_B_No12 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C ', 'F '}
+boydwoo_str_m3_o8_o13_pcu_sym_57 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-ADC_A-irmof6_A_No723 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_Zn2O8N2-ADC_A-irmof7_A_No26 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-mofHTB_No5 {'Al ', 'H ', 'O ', 'N ', 'C '}
+KOPHOO_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-irmof14_A-irmof20_A_No208 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+gmof_Zn2O8N2-ADC_A-irmof20_A_No836 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_AlO6-mofHTB_No6 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o2_o16_pcu_sym_103 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o3_o6_sra_sym_143 {'Al ', 'H ', 'O ', 'C ', 'F '}
+SARTEN_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+boydwoo_str_m3_o18_o18_pcu_sym_112 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o20_o27_sra_sym_39 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o3_o14_pcu_sym_7 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o14_pcu_sym_103 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o7_o25_sra_sym_45 {'Al ', 'H ', 'O ', 'I ', 'C '}
+boydwoo_str_m5_Al_o3_o7_sra_sym_56 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o16_o27_pcu_sym_218 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-ADC_A-irmof20_A_No806 {'H ', 'O ', 'S ', 'Zn ', 'N ', 'Br ', 'C '}
+boydwoo_str_m3_o3_o25_pcu_sym_43 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o20_o25_sra_sym_100 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m5_Al_o13_o27_sra_sym_13 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-mof177_No35 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m5_Al_o8_o8_sra_sym_76 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn2O8N2-DPAC_A-irmof7_A_No109 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+MICJUG_FSR {'H ', 'O ', 'N ', 'La ', 'S ', 'C '}
+boydwoo_str_m3_o18_o26_pcu_sym_242 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-irmof14_A_No11 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+gmof_ZnN4-SiF6-ADC_No5 {'H ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+boydwoo_str_m3_o8_o12_pcu_sym_122 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o20_pcu_sym_124 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o16_o27_sra_sym_46 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o8_o23_pcu_sym_282 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o3_o25_sra_sym_126 {'Al ', 'H ', 'O ', 'S ', 'C '}
+boydwoo_str_m3_o2_o13_pcu_sym_151 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o8_o11_pcu_sym_171 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-ADC_A-irmof20_A_No689 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m5_Al_o6_o7_sra_sym_33 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+HADMAD01_FSR {'H ', 'Co ', 'N ', 'C ', 'F '}
+gmof_Zn2O8N2-ADC_A-irmof20_A_No492 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+boydwoo_str_m3_o21_o28_pcu_sym_150 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-ADC_A-irmof7_A_No566 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m5_Al_o23_o27_sra_sym_48 {'Al ', 'H ', 'O ', 'N ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o20_o25_sra_sym_48 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o8_o13_pcu_sym_205 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o13_o21_pcu_sym_260 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+core_HADLOQ01_freeONLY {'H ', 'Co ', 'C ', 'N '}
+boydwoo_str_m3_o3_o17_pcu_sym_86 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o18_o28_pcu_sym_253 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o17_pcu_sym_258 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o6_o20_sra_sym_28 {'Al ', 'H ', 'O ', 'S ', 'C '}
+boydwoo_str_m5_Al_o3_o25_sra_sym_43 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+boydwoo_str_m3_o6_o14_pcu_sym_231 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o13_o27_sra_sym_66 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+boydwoo_str_m5_Al_o3_o6_sra_sym_17 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o8_o9_pcu_sym_10 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o13_o17_pcu_sym_178 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_CuN4-SiF6-DPAC_No14 {'H ', 'O ', 'Cu ', 'N ', 'C ', 'Si ', 'F '}
+boydwoo_str_m3_o8_o20_pcu_sym_18 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+VAGMIB01_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o18_o23_pcu_sym_18 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o13_o13_pcu_sym_249 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o8_o11_pcu_sym_57 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o8_o21_pcu_sym_68 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+IBICAZ_FSR {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o8_o18_pcu_sym_221 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o18_o26_pcu_sym_124 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o21_o26_sra_sym_34 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o17_o20_pcu_sym_34 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o28_pcu_sym_181 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o12_pcu_sym_127 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-irmof14_A-pmof1_A_No5 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o20_o25_sra_sym_56 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn2O8N2-AZO_A-irmof20_A_No307 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+gmof_Al2O6-irmof10_B-irmof12_B_No5 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Zn2O8N2-ADC_A-BDC_A_No31 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o23_o29_pcu_sym_64 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o13_o13_pcu_sym_127 {'Zn ', 'O ', 'C ', 'H '}
+PITPEP_FSR {'Al ', 'H ', 'O ', 'P ', 'C '}
+gmof_Zn2O8N2-irmof14_A-irmof8_A_No145 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-AZO_A-irmof20_A_No536 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Al2O6-DPAC_B-irmof10_B_No79 {'Al ', 'H ', 'O ', 'C ', 'F '}
+JOYKUF_FSR {'H ', 'O ', 'N ', 'C ', 'Mn '}
+ROGMEG_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o6_o17_sra_sym_58 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o8_o17_pcu_sym_140 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o6_o25_sra_sym_180 {'Al ', 'H ', 'O ', 'I ', 'N ', 'C '}
+boydwoo_str_m5_Al_o16_o27_sra_sym_32 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o20_o28_pcu_sym_17 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o16_o17_pcu_sym_46 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-mofHTB_No7 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o23_o25_pcu_sym_258 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m3_o8_o26_pcu_sym_209 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o20_o22_pcu_sym_64 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o3_pcu_sym_113 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o11_o27_pcu_sym_156 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-ADC_A-irmof7_A_No43 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o18_o28_pcu_sym_234 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o20_o28_pcu_sym_56 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-ADC_A-irmof20_A_No421 {'H ', 'O ', 'S ', 'Zn ', 'N ', 'Br ', 'C ', 'F '}
+gmof_Zn2O8N2-ADC_A-irmof7_A_No319 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_CuN4-SiF6-AZO_No2 {'H ', 'Cu ', 'N ', 'C ', 'Si ', 'F '}
+gmof_CuN4-SiF6-ADC_No3 {'H ', 'Cu ', 'N ', 'C ', 'Si ', 'F '}
+boydwoo_str_m1_o13_o16_pcu_sym_252 {'H ', 'O ', 'I ', 'Zn ', 'C '}
+boydwoo_str_m3_o20_o29_pcu_sym_67 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o25_o28_pcu_sym_105 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m5_Al_o3_o23_sra_sym_61 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o20_o25_pcu_sym_57 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+IBICED_FSR {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o20_o22_pcu_sym_23 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_ZnN4-SiF6-DPAC_No17 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+gmof_Zn2O8N2-ADC_A-irmof7_A_No1145 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o3_o20_sra_sym_49 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Zn2O8N2-irmof10_A-irmof8_A_No73 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_CuN4-SiF6-DPAC_No13 {'H ', 'Cu ', 'N ', 'C ', 'Si ', 'F '}
+gmof_Zn2O8N2-ADC_A-irmof20_A_No451 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+boydwoo_str_m3_o3_o24_pcu_sym_4 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o25_o28_pcu_sym_155 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o7_o13_sra_sym_66 {'Al ', 'H ', 'O ', 'S ', 'C '}
+tobacco_SR_rtl_v1-3c_B_Ch_v2-6c_Zr_1_Ch_1TrU_Ch_2x2x2 {'H ', 'Zr ', 'C ', 'O '}
+gmof_Zn2O8N2-irmof10_A-irmof8_A_No267 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn2O8N2-irmof14_A-irmof8_A_No219 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+KOSJAF_FSR {'H ', 'Co ', 'O ', 'C '}
+gmof_Zn2O8N2-ADC_A-irmof8_A_No794 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+BEPMEQ_FSR {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_ZnN4-SiF6-DPAC_No16 {'H ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+boydwoo_str_m5_Al_o3_o25_sra_sym_32 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn2O8N2-irmof14_A-irmof8_A_No360 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+MOF-5_cooh_2_567_1 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o2_o26_pcu_sym_230 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+tobacco_SR_tty_v1-8c_Zr_1_Ch_v2-3c_triazine_Ch_1TrU_Ch_1B_4H_Ch_2x2x2 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+tobacco_SR_tty_v1-8c_Hf_1_Ch_v2-3c_triazine_Ch_1TrU_Ch_1B_4H_Ch_2x2x2 {'H ', 'O ', 'N ', 'C ', 'Hf '}
+gmof_AlO6-pcn6_A_No1 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-mofHTB_No14 {'Al ', 'O ', 'N ', 'C ', 'F '}
+gmof_CuN4-SiF6-AZO_No1 {'H ', 'Cu ', 'N ', 'C ', 'Si ', 'F '}
+boydwoo_str_m1_o18_o18_pcu_sym_55 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o3_o23_sra_sym_8 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+boydwoo_str_m3_o7_o14_pcu_sym_103 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+MOF-5_cooh_2_2796_1 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o2_o28_pcu_sym_144 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_ZnN4-SiF6-DPAC_No10 {'H ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+boydwoo_str_m3_o8_o24_pcu_sym_12 {'Cl ', 'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o6_o23_sra_sym_114 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+boydwoo_str_m3_o8_o13_pcu_sym_74 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o6_o21_pcu_sym_70 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o20_pcu_sym_83 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o18_o28_pcu_sym_261 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_CuN4-SiF6-ADC_No1 {'H ', 'Cu ', 'N ', 'C ', 'Si ', 'F '}
+boydwoo_str_m3_o7_o20_pcu_sym_76 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+PEZCII_FSR {'La ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o6_o20_sra_sym_85 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o25_o29_pcu_sym_224 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_ZnN4-SiF6-ADC_No3 {'H ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+gmof_CuN4-SiF6-ADC_No2 {'H ', 'Cu ', 'N ', 'Br ', 'C ', 'Si ', 'F '}
+boydwoo_str_m3_o8_o16_pcu_sym_105 {'Cl ', 'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+tobacco_SR_tty_v1-8c_Hf_1_Ch_v2-3c_triazine_Ch_1TrU_Ch_2x2x2 {'H ', 'O ', 'N ', 'C ', 'Hf '}
+boydwoo_str_m3_o17_o28_pcu_sym_153 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o19_o28_pcu_sym_21 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+QUPZIM02_FSR {'H ', 'C ', 'Fe ', 'N '}
+boydwoo_str_m3_o3_o9_pcu_sym_247 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+tobacco_SR_tty_v1-8c_Zr_1_Ch_v2-3c_triazine_Ch_1TrU_Ch_2x2x2 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+BEPNUH_FSR {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o8_o21_pcu_sym_59 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-DPAC_B-irmof10_B_No124 {'Al ', 'Cl ', 'H ', 'O ', 'C ', 'F '}
+gmof_CuN4-SiF6-ADC_No6 {'H ', 'Cu ', 'N ', 'C ', 'Si ', 'F '}
+boydwoo_str_m3_o8_o16_pcu_sym_15 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+tobacco_SR_tty_v1-8c_Hf_1_Ch_v2-3c_B_Ch_1TrU_Ch_2x2x2 {'H ', 'O ', 'C ', 'Hf '}
+boydwoo_str_m3_o23_o27_pcu_sym_60 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Zn2O8N2-AZO_A-irmof10_A_No48 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+tobacco_SR_tty_v1-8c_Zr_1_Ch_v2-3c_B_Ch_1TrU_Ch_2x2x2 {'H ', 'Zr ', 'C ', 'O '}
+boydwoo_str_m3_o6_o12_pcu_sym_198 {'Cl ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o6_o25_pcu_sym_90 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+gmof_CuN4-SiF6-ADC_No13 {'H ', 'O ', 'Cu ', 'N ', 'C ', 'Si ', 'F '}
+boydwoo_str_m1_o18_o21_pcu_sym_91 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o17_o28_pcu_sym_186 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o8_o9_pcu_sym_221 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o20_o22_pcu_sym_53 {'H ', 'O ', 'I ', 'Zn ', 'C '}
+gmof_AlO6-mofHTB_No8 {'Al ', 'Cl ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o7_o11_pcu_sym_250 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o18_o29_pcu_sym_110 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o9_o20_pcu_sym_60 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o8_o24_pcu_sym_28 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-irmof20_A_No9 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_ZnN4-SiF6-AZO_No1 {'H ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+gmof_CuN4-SiF6-ADC_No4 {'Cl ', 'H ', 'Cu ', 'N ', 'C ', 'Si ', 'F '}
+boydwoo_str_m3_o23_o28_pcu_sym_36 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o16_o26_pcu_sym_139 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o18_o29_pcu_sym_154 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C ', 'F '}
+boydwoo_str_m3_o8_o11_pcu_sym_254 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o3_o14_pcu_sym_60 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o26_pcu_sym_180 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-irmof20_A_No19 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_Zn2O8N2-ADC_A-BDC_A_No317 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+NUTYIM_FSR {'Tb ', 'H ', 'O ', 'N ', 'C '}
+gmof_ZnN4-SiF6-ADC_No1 {'H ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+boydwoo_str_m1_o21_o21_pcu_sym_253 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o3_o20_sra_sym_170 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o6_o26_pcu_sym_163 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_CuN4-SiF6-DPAC_No19 {'H ', 'O ', 'Cu ', 'N ', 'C ', 'Si ', 'F '}
+gmof_ZnN4-SiF6-ADC_No2 {'H ', 'N ', 'Zn ', 'Br ', 'C ', 'Si ', 'F '}
+gmof_CuN4-SiF6-DPAC_No1 {'H ', 'Cu ', 'N ', 'C ', 'Si ', 'F '}
+boydwoo_str_m3_o25_o29_pcu_sym_104 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_CuN4-SiF6-DPAC_No3 {'H ', 'Cu ', 'N ', 'C ', 'Si ', 'F '}
+gmof_AlO6-mof177_No1 {'H ', 'Al ', 'C ', 'O '}
+tobacco_SR_tty_v1-8c_Hf_1_Ch_v2-3c_B_Ch_1TrU_Ch_1B_4H_Ch_2x2x2 {'H ', 'O ', 'C ', 'Hf '}
+gmof_CuN4-SiF6-DPAC_No17 {'H ', 'O ', 'Cu ', 'N ', 'C ', 'Si ', 'F '}
+gmof_CuN4-SiF6-DPAC_No2 {'H ', 'Cu ', 'N ', 'Br ', 'C ', 'Si ', 'F '}
+gmof_CuN4-SiF6-DPAC_No5 {'Cl ', 'H ', 'Cu ', 'N ', 'C ', 'Si ', 'F '}
+boydwoo_str_m1_o18_o21_pcu_sym_99 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o3_o6_sra_sym_97 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_CuN4-SiF6-DPAC_No10 {'H ', 'Cu ', 'N ', 'C ', 'Si ', 'F '}
+tobacco_SR_tty_v1-8c_Zr_1_Ch_v2-3c_B_Ch_1TrU_Ch_1B_4H_Ch_2x2x2 {'H ', 'Zr ', 'C ', 'O '}
+gmof_ZnN4-SiF6-ADC_No6 {'H ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+gmof_CuN4-SiF6-DPAC_No8 {'H ', 'Cu ', 'N ', 'C ', 'Si ', 'F '}
+gmof_AlO6-mofHTB_No15 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-mof177_No24 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m1_o8_o13_pcu_sym_258 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+core_EDUVOO_freeONLY {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o3_o7_pcu_sym_52 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-AZO_A-irmof10_A_No102 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_ZnN4-SiF6-ADC_No13 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+boydwoo_str_m1_o8_o12_pcu_sym_40 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-irmof20_A_No8 {'Al ', 'H ', 'O ', 'S ', 'C '}
+boydwoo_str_m5_Al_o3_o20_sra_sym_44 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o26_o27_pcu_sym_165 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o16_pcu_sym_92 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m1_o19_o24_pcu_sym_96 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o23_o28_pcu_sym_7 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_ZnN4-SiF6-ADC_No4 {'Cl ', 'H ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+NATKAX_FSR {'H ', 'Cu ', 'N ', 'C ', 'Si ', 'F '}
+boydwoo_str_m3_o3_o17_pcu_sym_219 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o19_o23_pcu_sym_104 {'Zn ', 'O ', 'C ', 'H '}
+core_GISNED_freeONLY {'Zn ', 'O ', 'C ', 'H '}
+FUNBOG_FSR {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o6_o21_pcu_sym_159 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o21_o21_pcu_sym_47 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o26_o27_pcu_sym_105 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m1_o19_o25_pcu_sym_144 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o6_o17_pcu_sym_14 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o12_pcu_sym_136 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o6_o21_pcu_sym_214 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o8_o23_pcu_sym_193 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o26_pcu_sym_272 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o8_o20_pcu_sym_156 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o6_o18_pcu_sym_245 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o23_o27_pcu_sym_161 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_AlO6-irmof20_A_No15 {'Al ', 'O ', 'N ', 'S ', 'C '}
+gmof_ZnN4-SiF6-DPAC_No22 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+XEGQOS_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o23_o27_pcu_sym_230 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_ZnN4-SiF6-DPAC_No4 {'H ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+boydwoo_str_m3_o6_o21_pcu_sym_148 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o13_o18_pcu_sym_8 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o6_o27_sra_sym_107 {'Al ', 'H ', 'O ', 'N ', 'Br ', 'C '}
+gmof_ZnN4-SiF6-DPAC_No2 {'H ', 'N ', 'Zn ', 'Br ', 'C ', 'Si ', 'F '}
+gmof_ZnN4-SiF6-DPAC_No1 {'H ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+gmof_ZnN4-SiF6-DPAC_No8 {'Cl ', 'H ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+gmof_ZnN4-SiF6-DPAC_No20 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+boydwoo_str_m3_o26_o29_pcu_sym_112 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_ZnN4-SiF6-DPAC_No13 {'H ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+boydwoo_str_m1_o8_o21_pcu_sym_17 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o21_o21_pcu_sym_30 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o6_o20_sra_sym_134 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_AlO6-mofHTB_No16 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o2_o7_pcu_sym_154 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+tobacco_SR_cut_v1-8c_Hf_1_Ch_v2-3c_pyrrole_Ch_1TrU_Ch_2x2x2 {'H ', 'O ', 'N ', 'C ', 'Hf '}
+gmof_ZnN4-SiF6-DPAC_No11 {'H ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+boydwoo_str_m3_o6_o18_pcu_sym_223 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o7_o22_pcu_sym_12 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+tobacco_SR_scu_v1-8c_Hf_1_Ch_v2-4c_B_Ch_1TrU_Ch_2x2x2 {'H ', 'O ', 'C ', 'Hf '}
+boydwoo_str_m3_o17_o27_pcu_sym_180 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o7_o16_pcu_sym_118 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+tobacco_SR_scu_v1-8c_Zr_1_Ch_v2-4c_B_Ch_1TrU_Ch_2x2x2 {'H ', 'Zr ', 'C ', 'O '}
+boydwoo_str_m3_o7_o14_pcu_sym_34 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o8_o18_pcu_sym_32 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o7_o25_pcu_sym_172 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o23_o28_pcu_sym_68 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-mofHTB_No12 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+NUVYEK_FSR {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn2O8N2-ADC_A-irmof20_A_No316 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m3_o23_o28_pcu_sym_267 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o7_o24_pcu_sym_89 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o3_o18_sra_sym_32 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o2_o6_sra_sym_9 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-mofHTB_No13 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+boydwoo_str_m3_o3_o12_pcu_sym_69 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o18_o27_pcu_sym_242 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o3_pcu_sym_73 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o3_o25_sra_sym_135 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o7_o25_pcu_sym_67 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o13_o26_pcu_sym_237 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o6_o25_sra_sym_116 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o6_o28_pcu_sym_140 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o8_pcu_sym_251 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m3_o8_o20_pcu_sym_44 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o25_o28_pcu_sym_173 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o3_o6_sra_sym_85 {'Al ', 'H ', 'O ', 'C ', 'F '}
+core_APARAM_freeONLY {'H ', 'O ', 'N ', 'C ', 'F ', 'Mn '}
+boydwoo_str_m3_o7_o26_pcu_sym_68 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o21_o26_pcu_sym_218 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+tobacco_SR_cut_v1-8c_Hf_1_Ch_v2-3c_pyrrole_Ch_1DoU_Ch_2x2x2 {'H ', 'O ', 'N ', 'C ', 'Hf '}
+boydwoo_str_m3_o3_o16_pcu_sym_120 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o2_o3_pcu_sym_117 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o7_pcu_sym_13 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o2_o7_sra_sym_97 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+boydwoo_str_m1_o16_o26_pcu_sym_24 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o25_o25_pcu_sym_58 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-DPAC_A_No1012 {'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o23_o29_pcu_sym_47 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o23_o27_sra_sym_138 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o16_o26_pcu_sym_200 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o26_o27_pcu_sym_57 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-AZO_B-irmof10_B_No65 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o21_o26_pcu_sym_66 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o3_o27_sra_sym_15 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o13_o13_pcu_sym_275 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o20_pcu_sym_77 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_FORKUU_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C ', 'Si ', 'F '}
+MOF-5_cooh_2_2713_1 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m1_o8_o10_pcu_sym_232 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o2_o29_pcu_sym_146 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o6_o20_pcu_sym_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o9_pcu_sym_198 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o13_o26_pcu_sym_110 {'Zn ', 'O ', 'C ', 'H '}
+gmof_AlO6-irmof20_A_No3 {'Al ', 'O ', 'S ', 'Br ', 'C '}
+PAJRUQ_FSR {'Zn ', 'C ', 'H ', 'N '}
+gmof_AlO6-irmof20_A_No2 {'Al ', 'H ', 'O ', 'S ', 'Br ', 'C '}
+boydwoo_str_m3_o2_o29_pcu_sym_9 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o8_o8_pcu_sym_242 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o6_o10_pcu_sym_201 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m5_Al_o27_o28_sra_sym_129 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+MOF-5_cooh_2_1239_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+ECAHUN_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o13_o26_pcu_sym_225 {'Zn ', 'O ', 'C ', 'H '}
+HOHMIB_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o27_o29_pcu_sym_113 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o7_o22_pcu_sym_128 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+tobacco_SR_ceg_v1-3c_triazine_Ch_v2-6c_Zr_1_Ch_v3-4c_B_Ch_1TrU_Ch_2x2x2 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+boydwoo_str_m5_Al_o3_o23_sra_sym_68 {'Al ', 'H ', 'O ', 'N ', 'C '}
+JOYKOZ_FSR {'H ', 'O ', 'N ', 'C ', 'Mn '}
+boydwoo_str_m3_o25_o26_pcu_sym_171 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-mofHTB_No22 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o8_o25_pcu_sym_188 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o27_o28_sra_sym_109 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o8_o10_pcu_sym_87 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o7_o29_pcu_sym_218 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o6_o7_pcu_sym_132 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+tobacco_SR_ceg_v1-3c_triazine_Ch_v2-6c_Hf_1_Ch_v3-4c_B_Ch_1TrU_Ch_2x2x2 {'H ', 'O ', 'N ', 'C ', 'Hf '}
+boydwoo_str_m5_Al_o2_o6_sra_sym_34 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-mofHTB_No21 {'Al ', 'H ', 'O ', 'N ', 'C '}
+MOF-5_cooh_2_2550_1 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m1_o8_o12_pcu_sym_42 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Al2O6-DPAC_B-irmof10_B_No146 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+boydwoo_str_m3_o6_o27_pcu_sym_181 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o13_o26_pcu_sym_132 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+MOF-5_cooh_2_68_1 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o7_o25_sra_sym_24 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Al2O6-AZO_B-irmof10_B_No178 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o13_o26_pcu_sym_186 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o3_o18_pcu_sym_183 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o2_o15_pcu_sym_50 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o3_o6_sra_sym_22 {'H ', 'Al ', 'C ', 'O '}
+gmof_Al2O6-AZO_B-irmof10_B_No235 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o7_o28_pcu_sym_11 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+tobacco_SR_ceg_v1-3c_B_Ch_v2-6c_Zr_1_Ch_v3-4c_B_Ch_1TrU_Ch_2x2x2 {'H ', 'Zr ', 'C ', 'O '}
+core_ZELROZ_manual {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o3_o15_pcu_sym_108 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+MOF-5_cooh_2_81_1 {'H ', 'O ', 'S ', 'Zn ', 'C '}
+boydwoo_str_m1_o13_o26_pcu_sym_162 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No910 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o25_o27_sra_sym_41 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o8_o16_pcu_sym_250 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-irmof20_A_No14 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+tobacco_SR_ceg_v1-3c_B_Ch_v2-6c_Hf_1_Ch_v3-4c_B_Ch_1TrU_Ch_2x2x2 {'H ', 'O ', 'C ', 'Hf '}
+boydwoo_str_m3_o2_o26_pcu_sym_115 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o7_o29_pcu_sym_61 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o3_o23_sra_sym_124 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-DPAC_A_No1188 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn4O13-BDC_A-DPAC_A_No48 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m1_o20_o24_pcu_sym_155 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No1056 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o12_pcu_sym_95 {'Cl ', 'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-AZO_B-irmof10_B_No253 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-irmof20_A_No5 {'Al ', 'H ', 'O ', 'S ', 'C '}
+boydwoo_str_m3_o3_o16_pcu_sym_139 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+EHIJAH_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-irmof20_A_No4 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_AlO6-mofHTB_No1 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o27_o27_sra_sym_158 {'Al ', 'H ', 'O ', 'I ', 'N ', 'C '}
+boydwoo_str_m3_o7_o18_pcu_sym_186 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o8_o18_pcu_sym_201 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-irmof20_A_No7 {'Al ', 'Cl ', 'O ', 'S ', 'C '}
+core_ECAHAT_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-irmof20_A_No6 {'Al ', 'Cl ', 'H ', 'O ', 'S ', 'C '}
+boydwoo_str_m3_o3_o19_pcu_sym_126 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_FEFDEB_manual {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o10_pcu_sym_80 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o3_o27_sra_sym_56 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-AZO_B-DPAC_B_No264 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o7_o23_sra_sym_193 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o6_o17_pcu_sym_221 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o26_pcu_sym_20 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-ADC_B-DPAC_B_No365 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o23_o27_pcu_sym_196 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o6_o27_sra_sym_115 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o8_o10_pcu_sym_91 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o6_o7_sra_sym_95 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m1_o21_o21_pcu_sym_169 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Al2O6-DPAC_B-irmof10_B_No236 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o3_o26_pcu_sym_116 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m5_Al_o2_o27_sra_sym_79 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o7_o26_pcu_sym_259 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-ADC_A-irmof14_A_No418 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C ', 'F '}
+gmof_Zn2O8N2-AZO_A-irmof14_A_No394 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m5_Al_o3_o3_sra_sym_82 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+boydwoo_str_m3_o3_o7_pcu_sym_137 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-ADC_A-irmof14_A_No416 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C ', 'F '}
+gmof_Zn2O8N2-ADC_A-irmof14_A_No307 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o26_o26_pcu_sym_117 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o2_o8_pcu_sym_190 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-ADC_A-irmof14_A_No309 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-DPAC_B-irmof10_B_No14 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Zn2O8N2-irmof10_A-irmof14_A_No288 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+LIHFAK_FSR {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o3_o14_pcu_sym_133 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o10_pcu_sym_84 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o17_o27_pcu_sym_159 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-AZO_A-irmof14_A_No287 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-DPAC_B-irmof10_B_No11 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m3_o3_o24_pcu_sym_131 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o21_o21_pcu_sym_214 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m3_o3_o18_pcu_sym_170 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o2_o6_pcu_sym_155 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+tobacco_SR_cut_v1-8c_Zr_1_Ch_v2-3c_pyrrole_Ch_1TrU_Ch_2x2x2 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+gmof_Zn2O8N2-ADC_A-irmof10_A_No455 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o9_pcu_sym_11 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m3_o3_o16_pcu_sym_14 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o7_o23_pcu_sym_58 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-DPAC_B-irmof10_B_No15 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m1_o8_o18_pcu_sym_280 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No714 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o27_o29_pcu_sym_15 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o18_o27_pcu_sym_135 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o21_o26_pcu_sym_222 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-AZO_B-irmof10_B_No239 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+MOF-5_cooh_2_1861_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-irmof20_A_No16 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_Zn2O8N2-AZO_A-irmof10_A_No127 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o26_o28_pcu_sym_165 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No103 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+MOF-5_cooh_2_160_1 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o3_o3_sra_sym_119 {'Al ', 'H ', 'O ', 'I ', 'C '}
+gmof_AlO6-irmof20_A_No17 {'Al ', 'H ', 'O ', 'S ', 'C '}
+boydwoo_str_m3_o6_o8_pcu_sym_23 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o25_o27_pcu_sym_12 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o23_pcu_sym_82 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o18_pcu_sym_246 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-irmof20_A_No13 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+boydwoo_str_m3_o8_o26_pcu_sym_68 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+boydwoo_str_m5_Al_o23_o27_sra_sym_111 {'Al ', 'H ', 'O ', 'N ', 'C '}
+tobacco_SR_tty_v1-8c_Zr_1_Ch_v2-3c_B_Ch_1B_4H_Ch_1DoU_Ch_2x2x2 {'H ', 'Zr ', 'C ', 'O '}
+tobacco_SR_tty_v1-8c_Hf_1_Ch_v2-3c_B_Ch_1B_4H_Ch_1DoU_Ch_2x2x2 {'H ', 'O ', 'C ', 'Hf '}
+tobacco_SR_tsd_v1-6c_Hf_1_Ch_v2-4c_B_Ch_v3-4c_B_Ch_v4-3c_triazine_Ch_1B_2SH_Ch_2x3x1 {'H ', 'O ', 'N ', 'S ', 'C ', 'Hf '}
+boydwoo_str_m3_o3_o16_pcu_sym_116 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_Al2O6-ADC_B-DPAC_B_No75 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+boydwoo_str_m5_Al_o6_o27_sra_sym_65 {'Al ', 'H ', 'O ', 'N ', 'C '}
+tobacco_SR_tsd_v1-6c_Zr_1_Ch_v2-4c_B_Ch_v3-4c_B_Ch_v4-3c_triazine_Ch_1B_2SH_Ch_2x3x1 {'H ', 'O ', 'N ', 'S ', 'Zr ', 'C '}
+gmof_Zn2O8N2-DPAC_A-irmof7_A_No970 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+tobacco_SR_tsd_v1-6c_Hf_1_Ch_v2-4c_B_Ch_v3-4c_B_Ch_v4-3c_B_Ch_1B_2SH_Ch_2x3x1 {'H ', 'O ', 'S ', 'C ', 'Hf '}
+tobacco_SR_tsd_v1-6c_Hf_1_Ch_v2-4c_B_Ch_v3-4c_B_Ch_v4-3c_B_Ch_1B_4Br_Ch_2x3x1 {'H ', 'O ', 'Br ', 'C ', 'Hf '}
+gmof_Zn2O8N2-AZO_A-DPAC_A_No38 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o18_o26_pcu_sym_46 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+tobacco_SR_tsd_v1-6c_Zr_1_Ch_v2-4c_B_Ch_v3-4c_B_Ch_v4-3c_B_Ch_1B_4Br_Ch_2x3x1 {'H ', 'O ', 'Zr ', 'Br ', 'C '}
+boydwoo_str_m3_o3_o28_pcu_sym_255 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o8_o26_sra_sym_100 {'Al ', 'H ', 'O ', 'N ', 'C '}
+tobacco_SR_tsd_v1-6c_Zr_1_Ch_v2-4c_B_Ch_v3-4c_B_Ch_v4-3c_B_Ch_1B_2SH_Ch_2x3x1 {'H ', 'O ', 'S ', 'Zr ', 'C '}
+tobacco_SR_cut_v1-8c_Zr_1_Ch_v2-3c_pyrrole_Ch_1DoU_Ch_2x2x2 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+boydwoo_str_m3_o7_o28_pcu_sym_133 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o23_o27_sra_sym_129 {'Al ', 'H ', 'O ', 'N ', 'C '}
+tobacco_SR_tsd_v1-6c_Hf_1_Ch_v2-4c_B_Ch_v3-4c_B_Ch_v4-3c_pyrrole_Ch_1TrU_Ch_2x3x1 {'H ', 'O ', 'N ', 'C ', 'Hf '}
+boydwoo_str_m3_o8_o29_pcu_sym_30 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+QEJBEP_FSR {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No483 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+core_FUNCEX_freeONLY {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_AlO6-irmof20_A_No12 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No219 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o3_o27_sra_sym_35 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-mof180_No10 {'Al ', 'H ', 'O ', 'S ', 'C '}
+core_FAHPOV_freeONLY {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m1_o21_o26_pcu_sym_72 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o8_o29_pcu_sym_254 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o12_pcu_sym_251 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-DPAC_A_No879 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m1_o8_o18_pcu_sym_164 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn2O8N2-DPAC_A-irmof7_A_No1180 {'H ', 'O ', 'S ', 'Zn ', 'N ', 'Br ', 'C '}
+boydwoo_str_m3_o6_o27_pcu_sym_97 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-ADC_A-DPAC_A_No1749 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o24_pcu_sym_197 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+MOF-5_cooh_2_2349_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o3_o3_sra_sym_59 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+gmof_Zn2O8N2-DPAC_A-irmof14_A_No889 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No87 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o7_o29_pcu_sym_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o8_o16_pcu_sym_205 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-ADC_B-AZO_B_No82 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o20_o24_pcu_sym_10 {'H ', 'O ', 'I ', 'Zn ', 'C '}
+gmof_AlO6-mof200_No28 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No894 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o8_o18_pcu_sym_158 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-DPAC_A_No10 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn4O13-BDC_A-DPAC_A_No38 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o27_o28_sra_sym_17 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o8_o26_sra_sym_5 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-DPAC_A_No366 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+boydwoo_str_m1_o8_o16_pcu_sym_114 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o7_o8_pcu_sym_30 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No220 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No352 {'Cl ', 'O ', 'Zn ', 'Br ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No88 {'Zn ', 'O ', 'Br ', 'C '}
+boydwoo_str_m1_o8_o13_pcu_sym_156 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o3_o27_sra_sym_43 {'Al ', 'H ', 'O ', 'I ', 'N ', 'C '}
+boydwoo_str_m3_o23_o27_pcu_sym_59 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o8_o27_pcu_sym_102 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o22_pcu_sym_127 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o27_pcu_sym_11 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-ADC_B-AZO_B_No41 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o3_o7_pcu_sym_4 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-irmof20_A_No10 {'Al ', 'H ', 'O ', 'S ', 'C ', 'F '}
+gmof_AlO6-mof200_No27 {'Al ', 'H ', 'O ', 'S ', 'C '}
+boydwoo_str_m3_o7_o26_pcu_sym_145 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_Zn2O8N2-DPAC_A-irmof10_A_No202 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o27_o27_sra_sym_91 {'Al ', 'H ', 'O ', 'I ', 'N ', 'C '}
+gmof_AlO6-irmof20_A_No11 {'Al ', 'O ', 'S ', 'C ', 'F '}
+boydwoo_str_m5_Al_o3_o27_sra_sym_66 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-irmof12_A-irmof16_A_No12 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+gmof_Zn4O13-irmof14_A-irmof16_A_No329 {'Cl ', 'H ', 'O ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o8_o27_pcu_sym_149 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No1173 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o8_pcu_sym_80 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o26_o26_sra_sym_109 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m3_o3_o7_pcu_sym_168 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o8_o26_sra_sym_142 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o3_o3_pcu_sym_129 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o8_pcu_sym_18 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No381 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+gmof_Zn4O13-DPAC_A_No15 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No117 {'Cl ', 'H ', 'O ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o3_o15_pcu_sym_101 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o8_o8_pcu_sym_66 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o14_pcu_sym_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-AZO_B-DPAC_B_No7 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o3_o25_pcu_sym_111 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-mof180_No5 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn2O8N2-AZO_A-NiC4_No5 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o10_pcu_sym_129 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No963 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+tobacco_SR_tsd_v1-6c_Zr_1_Ch_v2-4c_B_Ch_v3-4c_B_Ch_v4-3c_pyrrole_Ch_1TrU_Ch_2x3x1 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+boydwoo_str_m5_Al_o3_o3_sra_sym_131 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+boydwoo_str_m3_o3_o26_pcu_sym_197 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-AZO_B-DPAC_B_No258 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn2O8N2-ADC_A-AZO_A_No140 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_AlO6-irmof8_A_No1 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn4O13-BDC_A-DPAC_A_No118 {'Cl ', 'O ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m3_o3_o27_pcu_sym_229 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o7_o27_sra_sym_105 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o3_o7_sra_sym_73 {'H ', 'Al ', 'C ', 'O '}
+boydwoo_str_m1_o6_o22_pcu_sym_81 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m1_o26_o26_pcu_sym_62 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+gmof_Zn2O8N2-ADC_A-AZO_A_No288 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-DPAC_A-irmof7_A_No107 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_Al2O6-ADC_B-AZO_B_No223 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No964 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+DOKDEN_FSR {'H ', 'O ', 'Cu ', 'N ', 'C '}
+boydwoo_str_m5_Al_o8_o26_sra_sym_232 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o7_o26_pcu_sym_134 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-mof180_No2 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o3_o27_sra_sym_19 {'Al ', 'H ', 'O ', 'I ', 'N ', 'C '}
+gmof_AlO6-mof200_No26 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_Al2O6-AZO_B-DPAC_B_No95 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m5_Al_o27_o28_sra_sym_178 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn2O8N2-AZO_A-NiC4_No9 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-AZO_B-DPAC_B_No209 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+YATLEN_FSR {'H ', 'O ', 'N ', 'C ', 'Fe '}
+boydwoo_str_m5_Al_o27_o28_sra_sym_103 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o26_o27_pcu_sym_63 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-AZO_B-DPAC_B_No222 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-AZO_B-DPAC_B_No221 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o6_o7_pcu_sym_75 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o7_o27_sra_sym_93 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m1_o26_o26_pcu_sym_234 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o8_o12_pcu_sym_43 {'H ', 'O ', 'I ', 'N ', 'Zn ', 'C '}
+gmof_Al2O6-ADC_B-DPAC_B_No235 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Al2O6-ADC_B-AZO_B_No45 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+OJAWII_FSR {'H ', 'O ', 'P ', 'C ', 'Fe '}
+boydwoo_str_m1_o26_o26_pcu_sym_75 {'Zn ', 'O ', 'C ', 'H '}
+boydwoo_str_m5_Al_o3_o7_sra_sym_7 {'H ', 'Al ', 'C ', 'O '}
+gmof_Al2O6-DPAC_B_No4 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_Al2O6-AZO_B-DPAC_B_No282 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Al2O6-AZO_B_No1 {'Al ', 'H ', 'O ', 'N ', 'C '}
+ATOTIM_FSR {'H ', 'O ', 'C ', 'V '}
+gmof_Al2O6-ADC_B-DPAC_B_No120 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-mof180_No8 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-irmof20_A_No1 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_Al2O6-ADC_B-DPAC_B_No447 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No37 {'Zn ', 'O ', 'C ', 'H '}
+MOF-5_cooh_2_1505_1 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o3_o27_sra_sym_25 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+boydwoo_str_m3_o26_o27_pcu_sym_145 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-mof200_No22 {'Al ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o3_o26_pcu_sym_64 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o8_o26_pcu_sym_14 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m5_Al_o7_o7_sra_sym_121 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No597 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Al2O6-ADC_B-AZO_B_No231 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No1072 {'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-ADC_B-DPAC_B_No59 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn4O13-BDC_A-DPAC_A_No940 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-DPAC_A_No71 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn4O13-BDC_A-DPAC_A_No1257 {'Zn ', 'O ', 'C ', 'H '}
+gmof_AlO6-mof180_No4 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_Al2O6-ADC_B-DPAC_B_No328 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No72 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn2O8N2-ADC_A-AZO_A_No302 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-mof200_No20 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-DPAC_A_No43 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn4O13-BDC_A-DPAC_A_No730 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-DPAC_A_No201 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+gmof_Zn2O8N2-DPAC_A-irmof8_A_No452 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn2O8N2-AZO_A-DPAC_A_No34 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-AZO_A-DPAC_A_No28 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No317 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-ADC_A-AZO_A_No588 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m5_Al_o27_o27_sra_sym_116 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn2O8N2-AZO_A-DPAC_A_No539 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-DPAC_A_No543 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-DPAC_A_No1025 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-mof200_No21 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn2O8N2-DPAC_A-irmof7_A_No835 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No939 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+IMIDZB13_FSR {'Zn ', 'C ', 'H ', 'N '}
+HAYZEP_FSR {'Cl ', 'H ', 'O ', 'N ', 'C ', 'Fe '}
+gmof_Zn2O8N2-DPAC_A-irmof20_A_No377 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Zn2O8N2-DPAC_A-irmof14_A_No633 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-ADC_A-DPAC_A_No320 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No675 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+gmof_AlO6-mof200_No12 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn4O13-irmof14_A-irmof16_A_No147 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-irmof14_A-irmof16_A_No35 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-irmof12_A-irmof16_A_No17 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m5_Al_o3_o7_sra_sym_143 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+gmof_Al2O6-ADC_B-DPAC_B_No94 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-mof200_No13 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn2O8N2-ADC_A-AZO_A_No539 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-DPAC_A_No54 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-DPAC_A_No26 {'Zn ', 'O ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-DPAC_A_No1204 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+gmof_Zn2O8N2-ADC_A_No22 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+MOF-5_cooh_2_646_1 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn2O8N2-DPAC_A-irmof8_A_No229 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No412 {'Cl ', 'O ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m3_o6_o6_pcu_sym_83 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-DPAC_A-irmof14_A_No268 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-DPAC_A-irmof6_A_No347 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Al2O6-ADC_B-DPAC_B_No240 {'Al ', 'H ', 'O ', 'C ', 'F '}
+boydwoo_str_m5_Al_o7_o7_sra_sym_79 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn2O8N2-DPAC_A-irmof14_A_No414 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_Zn2O8N2-DPAC_A-irmof14_A_No457 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+core_YUXQIS_freeONLY {'Cd ', 'H ', 'O ', 'N ', 'C '}
+boydwoo_str_m3_o3_o27_pcu_sym_25 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-DPAC_A-irmof14_A_No225 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+tobacco_SR_tsd_v1-6c_Hf_1_Ch_v2-4c_B_Ch_v3-4c_B_Ch_v4-3c_B_Ch_1TrU_Ch_2x3x1 {'H ', 'O ', 'C ', 'Hf '}
+gmof_AlO6-mof200_No4 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+gmof_Al2O6-ADC_B-DPAC_B_No258 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-mof180_No3 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn4O13-BDC_A-DPAC_A_No659 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+gmof_Zn2O8N2-DPAC_A-irmof20_A_No481 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C ', 'F '}
+gmof_Al2O6-BTC_A-DPAC_B_No1 {'H ', 'Al ', 'C ', 'O '}
+tobacco_SR_tsd_v1-6c_Zr_1_Ch_v2-4c_B_Ch_v3-4c_B_Ch_v4-3c_B_Ch_1TrU_Ch_2x3x1 {'H ', 'Zr ', 'C ', 'O '}
+boydwoo_str_m3_o7_o27_pcu_sym_103 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+core_LOQLEJ_manual {'H ', 'O ', 'C ', 'In '}
+gmof_Zn2O8N2-ADC_A-DPAC_A_No550 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn2O8N2-DPAC_A-irmof7_A_No923 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m3_o3_o27_pcu_sym_62 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-DPAC_A-irmof7_A_No682 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn2O8N2-DPAC_A-irmof20_A_No771 {'H ', 'O ', 'N ', 'Zn ', 'S ', 'C '}
+gmof_AlO6-mof180_No6 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_Zn2O8N2-DPAC_A-irmof8_A_No709 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-DPAC_A-irmof14_A_No856 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-DPAC_A-irmof14_A_No821 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_AlO6-mof180_No9 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn2O8N2-DPAC_A-irmof14_A_No433 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn2O8N2-DPAC_A-irmof14_A_No783 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_Zn2O8N2-DPAC_A-irmof7_A_No596 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn2O8N2-DPAC_A-irmof10_A_No127 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-DPAC_A-irmof6_A_No417 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn2O8N2-DPAC_A-irmof6_A_No56 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-DPAC_A-irmof7_A_No1105 {'H ', 'O ', 'N ', 'Zn ', 'C ', 'F '}
+gmof_Zn2O8N2-DPAC_A-irmof14_A_No155 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_Zn2O8N2-DPAC_A-irmof8_A_No679 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn2O8N2-DPAC_A-irmof6_A_No61 {'H ', 'O ', 'N ', 'Zn ', 'Br ', 'C '}
+gmof_AlO6-mof180_No1 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-irmof10_A_No14 {'Al ', 'H ', 'O ', 'S ', 'C '}
+boydwoo_str_m3_o7_o27_pcu_sym_8 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+boydwoo_str_m1_o26_o26_pcu_sym_195 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+gmof_AlO6-mof200_No3 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+boydwoo_str_m5_Al_o3_o3_sra_sym_144 {'H ', 'Al ', 'C ', 'O '}
+MOF-5_cooh_2_2368_1 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn4O13-BDC_A-DPAC_A_No542 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-DPAC_A_No614 {'H ', 'O ', 'Zn ', 'Br ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-DPAC_A_No596 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn4O13-BDC_A-DPAC_A_No86 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+gmof_Zn4O13-DPAC_A_No4 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No350 {'Cl ', 'H ', 'O ', 'Zn ', 'Br ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No218 {'H ', 'O ', 'Zn ', 'Br ', 'C '}
+gmof_AlO6-irmof10_A_No11 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No992 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-mof200_No2 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No13 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn4O13-BDC_A-DPAC_A_No962 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No24 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No21 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-mof200_No10 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+boydwoo_str_m1_o7_o19_pcu_sym_47 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn4O13-BDC_A-DPAC_A_No70 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn4O13-BDC_A-DPAC_A_No16 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-DPAC_A_No1256 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn4O13-BDC_A-DPAC_A_No10 {'Cl ', 'H ', 'O ', 'Zn ', 'C '}
+gmof_Zn4O13-BDC_A-DPAC_A_No116 {'Cl ', 'H ', 'O ', 'Zn ', 'Br ', 'C '}
+boydwoo_str_m1_o8_o8_pcu_sym_233 {'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-mof200_No6 {'H ', 'Al ', 'C ', 'O '}
+gmof_Zn4O13-BDC_A-DPAC_A_No1202 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+boydwoo_str_m1_o26_o26_pcu_sym_192 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-irmof12_A-irmof16_A_No1 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn4O13-DPAC_A_No24 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-irmof14_A-irmof16_A_No5 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn4O13-BDC_A-DPAC_A_No146 {'H ', 'O ', 'Zn ', 'Br ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-DPAC_A_No278 {'H ', 'O ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-BDC_A-DPAC_A_No410 {'Cl ', 'H ', 'O ', 'Zn ', 'C ', 'F '}
+gmof_Zn4O13-irmof10_A-irmof16_A_No1 {'Zn ', 'O ', 'C ', 'H '}
+gmof_Zn4O13-irmof14_A-irmof16_A_No1 {'Zn ', 'O ', 'C ', 'H '}
+gmof_AlO6-mof200_No9 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+boydwoo_str_m3_o7_o7_pcu_sym_194 {'Cl ', 'H ', 'O ', 'N ', 'Zn ', 'C '}
+gmof_AlO6-mof200_No5 {'H ', 'Al ', 'C ', 'O '}
+tobacco_SR_cut_v1-8c_Hf_1_Ch_v2-3c_triazine_Ch_1TrU_Ch_2x2x2 {'H ', 'O ', 'N ', 'C ', 'Hf '}
+tobacco_SR_cut_v1-8c_Zr_1_Ch_v2-3c_triazine_Ch_1TrU_Ch_2x2x2 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+gmof_AlO6-mof200_No8 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_AlO6-irmof14_A_No1 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-mof200_No19 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-irmof12_A_No1 {'H ', 'Al ', 'C ', 'O '}
+tobacco_SR_cut_v1-8c_Hf_1_Ch_v2-3c_B_Ch_1TrU_Ch_2x2x2 {'H ', 'O ', 'C ', 'Hf '}
+tobacco_SR_cut_v1-8c_Zr_1_Ch_v2-3c_B_Ch_1TrU_Ch_2x2x2 {'H ', 'Zr ', 'C ', 'O '}
+gmof_AlO6-mof200_No11 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-irmof10_A_No5 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_AlO6-mof200_No15 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_AlO6-irmof10_A_No2 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+gmof_AlO6-irmof10_A_No3 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-mof200_No18 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-irmof10_A_No10 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-mof200_No24 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-mof200_No25 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-mof200_No16 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_AlO6-irmof10_A_No4 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_AlO6-irmof10_A_No6 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-mof200_No14 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_AlO6-AZO_A_No11 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-irmof10_A_No13 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-mof200_No23 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-mof200_No1 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-AZO_A_No24 {'Al ', 'H ', 'O ', 'N ', 'S ', 'C '}
+gmof_AlO6-AZO_A_No19 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-irmof10_A_No9 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-AZO_A_No10 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-irmof10_A_No7 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_AlO6-AZO_A_No18 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-AZO_A_No7 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-irmof10_A_No1 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-AZO_A_No20 {'Al ', 'C ', 'O ', 'N '}
+gmof_AlO6-ADC_A_No26 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-ADC_A_No31 {'Al ', 'H ', 'O ', 'S ', 'C '}
+tobacco_SR_tsd_v1-6c_Hf_1_Ch_v2-4c_B_Ch_v3-4c_B_Ch_v4-3c_triazine_Ch_2B_fused_Ch_1x2x1 {'H ', 'O ', 'N ', 'C ', 'Hf '}
+tobacco_SR_tsd_v1-6c_Zr_1_Ch_v2-4c_B_Ch_v3-4c_B_Ch_v4-3c_triazine_Ch_2B_fused_Ch_1x2x1 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+tobacco_SR_cut_v1-8c_Hf_1_Ch_v2-3c_triazine_Ch_1B_4H_Ch_2x2x2 {'H ', 'O ', 'N ', 'C ', 'Hf '}
+gmof_AlO6-AZO_A_No4 {'Al ', 'H ', 'O ', 'N ', 'C '}
+tobacco_SR_cut_v1-8c_Zr_1_Ch_v2-3c_triazine_Ch_1B_4H_Ch_2x2x2 {'H ', 'O ', 'N ', 'Zr ', 'C '}
+gmof_AlO6-ADC_A_No23 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-AZO_A_No8 {'Al ', 'Cl ', 'O ', 'N ', 'C '}
+gmof_AlO6-DPAC_A_No42 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_AlO6-AZO_A_No5 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-DPAC_A_No43 {'Al ', 'H ', 'O ', 'S ', 'C '}
+gmof_AlO6-DPAC_A_No21 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-DPAC_A_No20 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-DPAC_A_No35 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-AZO_A_No3 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-AZO_A_No2 {'Al ', 'H ', 'O ', 'N ', 'Br ', 'C '}
+gmof_AlO6-AZO_A_No13 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+gmof_AlO6-ADC_A_No11 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_AlO6-DPAC_A_No32 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-DPAC_A_No36 {'Al ', 'C ', 'O ', 'N '}
+gmof_AlO6-AZO_A_No16 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-AZO_A_No14 {'Al ', 'O ', 'N ', 'C ', 'F '}
+gmof_AlO6-ADC_A_No7 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-ADC_A_No24 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-ADC_A_No13 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-AZO_A_No17 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-AZO_A_No23 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-DPAC_A_No5 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+gmof_AlO6-ADC_A_No3 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+gmof_AlO6-ADC_A_No25 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-AZO_A_No6 {'Al ', 'Cl ', 'H ', 'O ', 'N ', 'C '}
+PESSIS_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+gmof_AlO6-DPAC_A_No3 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+gmof_AlO6-DPAC_A_No6 {'Al ', 'Br ', 'C ', 'O '}
+gmof_AlO6-ADC_A_No22 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-AZO_A_No22 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-DPAC_A_No33 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-ADC_A_No2 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+gmof_AlO6-DPAC_A_No16 {'O ', 'Al ', 'C ', 'Cl '}
+gmof_AlO6-ADC_A_No17 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_AlO6-DPAC_A_No11 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-ADC_A_No9 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_AlO6-AZO_A_No9 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-DPAC_A_No13 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_AlO6-DPAC_A_No19 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-ADC_A_No8 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_AlO6-DPAC_A_No15 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_AlO6-ADC_A_No6 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-DPAC_A_No34 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-AZO_A_No12 {'Al ', 'H ', 'O ', 'N ', 'C ', 'F '}
+gmof_AlO6-ADC_A_No5 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-ADC_A_No18 {'Al ', 'C ', 'O ', 'F '}
+gmof_AlO6-AZO_A_No15 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-ADC_A_No30 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-DPAC_A_No8 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-DPAC_A_No2 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+gmof_AlO6-ADC_A_No10 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_AlO6-AZO_A_No1 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-DPAC_A_No7 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-AZO_A_No21 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-ADC_A_No28 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-DPAC_A_No26 {'Al ', 'C ', 'O ', 'F '}
+gmof_AlO6-DPAC_A_No9 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-DPAC_A_No30 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-ADC_A_No14 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_AlO6-ADC_A_No16 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_AlO6-DPAC_A_No23 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_AlO6-DPAC_A_No25 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_AlO6-ADC_A_No19 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-DPAC_A_No31 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-DPAC_A_No4 {'Al ', 'H ', 'O ', 'Br ', 'C '}
+gmof_AlO6-DPAC_A_No40 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-ADC_A_No15 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_AlO6-ADC_A_No29 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-DPAC_A_No14 {'Al ', 'Cl ', 'H ', 'O ', 'C '}
+gmof_AlO6-DPAC_A_No28 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-ADC_A_No21 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-ADC_A_No27 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-ADC_A_No1 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-DPAC_A_No41 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-DPAC_A_No38 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-DPAC_A_No24 {'Al ', 'H ', 'O ', 'C ', 'F '}
+gmof_AlO6-DPAC_A_No27 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-DPAC_A_No1 {'H ', 'Al ', 'C ', 'O '}
+gmof_AlO6-DPAC_A_No29 {'Al ', 'H ', 'O ', 'N ', 'C '}
+gmof_AlO6-DPAC_A_No39 {'H ', 'Al ', 'C ', 'O '}
+PODGEW01_FSR {'H ', 'O ', 'C ', 'In '}
+PESSOY_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}
+PESSUE_FSR {'H ', 'O ', 'N ', 'Ni ', 'C '}

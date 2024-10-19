@@ -1,0 +1,19 @@
+POCs.charges
+CCDC.atoms
+job_coords
+2.60
+5000
+cell_a, cell_b, cell_c
+CELL_ALPHA, CELL_BETA, CELL_GAMMA
+Cell_Density
+
+
+
+! file containing the different chargetypes and chargevalues
+! file containing the atom types + parameters
+! file containing the coordinates
+! probe size in A
+! number of insertions
+! length of unitcell
+! unit cell angles alpha, beta, gamma
+! crystal density in g / cm3
