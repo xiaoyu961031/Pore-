@@ -2,7 +2,7 @@ Welcome to the Pore+ Encoder repository, an enhanced feature engineering tool fo
 
 Pore+ offers three key groups of descriptors: curated traditional geometric descriptors (Geo*), multi-probe-visited geometry (mpv-Geo), and advanced surface area metrics (SA). These descriptors aim to address the limitations of conventional pore features by incorporating more nuanced characterizations of the pore environment, including elementally and atom-type-specific contributions to surface area.
 
-The Pore+ descriptors have been used successfully to predict selective adsorption of methyl iodide (CH₃I) in MOFs, demonstrating improved model accuracy and interpretability compared to traditional descriptors. By providing a detailed representation of pore features, Pore+ helps researchers understand the critical factors driving adsorption performance and supports the rational design of new MOFs with optimized properties.
+The Pore+ descriptors have been used successfully to predict selective adsorption of methyl iodide in MOFs, demonstrating improved model accuracy and interpretability compared to traditional descriptors. By providing a detailed representation of pore features, Pore+ helps researchers understand the critical factors driving adsorption performance and supports the rational design of new MOFs with optimized properties.
 
 Elemental-decomposed srface area (e-SA):
 To explore elemental decomposition, proceed with the example CD41/ provided by Prof. Linjiang Chen. For custom structures, supply a .mol file along with the appropriate probe and crystal parameters.
