@@ -16,4 +16,4 @@ This feature is not included directly in the repository, as it can be easily der
 Special acknowledgement to Professor Linjiang Chen, from Precision and intelligent chemistry @ USTC & BHAM, for modifing code that decomposes surface area for POCs.
 Special acknowledgement to Professor Tina Duren, from Univeresity of Bath, for providing the code prototype.
 
-If you use this in your work, please cite our related publication: Xiaoyu Wu, Xianyu Song, Linjiang Chen*, Chunyi Yu, Liangdan Zhao, Mingrui Zuo, Chenrui Li, Heechae Choi, Jianwen Jiang* and Lifeng Ding. Accurate and Interpretable Machine Learning with Pore+ Descriptors for Iodide Capture in Metal-Organic Frameworks, Separation and Purification Technology (2024), https://doi.org/10.1016/j.seppur.2024.130933
+If you use this in your work, please cite our related publication: Xiaoyu Wu, Xianyu Song, Linjiang Chen, Chunyi Yu, Liangdan Zhao, Mingrui Zuo, Chenrui Li, Heechae Choi, Jianwen Jiang and Lifeng Ding. Accurate and Interpretable Machine Learning with Pore+ Descriptors for Iodide Capture in Metal-Organic Frameworks, Separation and Purification Technology (2024), https://doi.org/10.1016/j.seppur.2024.130933
